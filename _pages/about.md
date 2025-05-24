@@ -121,7 +121,7 @@ CVPR Workshops 2023
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="images/logo/pku_logo.png" alt="Peking University Logo" width="50" height="50">
+        <img src="/images/logo/pku_logo.png" alt="Peking University Logo" width="50" height="50">
     </div>
     <div class="experience-box-text">
         <p><strong>2023.09 - Now</strong></p>
@@ -132,7 +132,7 @@ CVPR Workshops 2023
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="images/logo/dut_logo.png" alt="DUT Logo" width="50" height="50">
+        <img src="/images/logo/dut_logo.png" alt="DUT Logo" width="50" height="50">
     </div>
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.09</strong></p>
