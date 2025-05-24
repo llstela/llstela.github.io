@@ -36,7 +36,8 @@ I am always open to academic and industrial collaborations. Feel free to reach o
 **Looking for a PhD or job position.**
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉 Our "OmniSSR" is accepted in ECCV 2024 for **oral presentation**. 🎉
+- *2024.08*: &nbsp;🎉 One paper is accepted in ICME 2025. 🎉
+- *2024.08*: &nbsp;🎉 Our "OmniSSR" is accepted in ECCV 2024 for <font color=Red>oral presentation</font>. 🎉
 - *2022.02*: &nbsp;🏆 We won the "NTIRE 2023 Global Challenge Panoramic Image Super-resolution Track" championship. 🏆
 
 
@@ -119,7 +120,7 @@ ECCV 2024, <font color=Red>Oral Presentation</font>
     </div>
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.09</strong></p>
-        <p>M.S. Student, <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a> </p>
+        <p>Bachelor Student, <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a> </p>
         <p>Advisor: Prof. <a href="https://stephenjia.github.io/">Xu JIA</a></p>
     </div>
 </div>
