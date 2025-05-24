@@ -76,7 +76,7 @@ ICME 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OmniSSR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/OmniSSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model](https://eccv.ecva.net/virtual/2024/poster/1971)
 
