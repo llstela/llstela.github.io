@@ -38,7 +38,7 @@ I am always open to academic and industrial collaborations. Feel free to reach o
 # 🔥 News
 - *2024.08*: &nbsp;🎉 One paper is accepted in ICME 2025. 🎉
 - *2024.08*: &nbsp;🎉 Our "OmniSSR" is accepted in ECCV 2024 for <font color=Red>oral presentation</font>. 🎉
-- *2022.02*: &nbsp;🏆 We won the "NTIRE 2023 Global Challenge Panoramic Image Super-resolution Track" championship. 🏆
+- *2022.02*: &nbsp;🏆 We won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship. 🏆
 
 
 # 📝 Publications 
@@ -93,6 +93,22 @@ ECCV 2024, <font color=Red>Oral Presentation</font>
 <img src="https://img.shields.io/badge/Citations-15-blue" alt="引用数"></a> -->
 <!-- - <a href="https://github.com/theEricMa/TriplaneTurbo"><img src="https://img.shields.io/github/stars/theEricMa/TriplaneTurbo?style=social" alt="GitHub stars"></a> \| [HuggingFace Demo](https://huggingface.co/spaces/ZhiyuanthePony/TriplaneTurbo) -->
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NTIRE 2023</div><img src='images/ntire.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
+
+Xiaopeng Sun \*, Weiqi Li\*, Zhenyu Zhang, Qiufang Ma, **Xuhan Sheng**, et al.
+
+CVPR Workshops 2023
+
+- The **champion** solution for "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track".
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
 </div>
 </div>
 
