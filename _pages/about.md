@@ -99,7 +99,7 @@ ECCV 2024, <font color=Red>Oral Presentation</font>
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <span class='anchor' id='educations'></span>
-# Educations
+# 📚 Educations
 
 <div class="experience-box">
     <div class="experience-box-logo">
