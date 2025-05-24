@@ -45,7 +45,7 @@ I am always open to academic and industrial collaborations. Feel free to reach o
 
 (*: indicates equal contribution; #: indicates corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RealOSR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/RealOSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution](https://arxiv.org/abs/2412.09646)
@@ -61,7 +61,7 @@ Preprint 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/Re-Face.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='/images/Re-Face.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -77,7 +77,7 @@ ICME 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/OmniSSR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/OmniSSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model](https://eccv.ecva.net/virtual/2024/poster/1971)
 
@@ -96,7 +96,7 @@ ECCV 2024, <font color=Red>Oral Presentation</font>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NTIRE 2023</div><img src='images/ntire.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NTIRE 2023</div><img src='/images/ntire.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
