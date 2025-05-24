@@ -33,6 +33,7 @@ Prior to this, I received my Bachelor's degree in Artificial Intelligence (AI) a
 
 I am always open to academic and industrial collaborations. Feel free to reach out for research discussions and potential collaborations!
 
+**Looking for a PhD or job position.**
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉 Our "OmniSSR" is accepted in ECCV 2024 for **oral presentation**. 🎉
