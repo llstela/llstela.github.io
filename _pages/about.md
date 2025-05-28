@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xuhan, a second-year master degree student in the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), supervised by Prof. [Jian ZHANG](https://jianzhang.tech/). 
+Hi, I'm Xuhan, a second-year Master's student at the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I am fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
 
-Prior to this, I received my Bachelor's degree in Artificial Intelligence (AI) at [Dalian University of Technology](https://en.dlut.edu.cn/), supervised by Prof. [Xu JIA](https://stephenjia.github.io/) My research interests cover Low-level Vision, AIGC, 3D Vision.
+Previously, I earned my Bachelor's degree in Artificial Intelligence from the [Dalian University of Technology](https://en.dlut.edu.cn/), under the supervision of Prof. [Xu JIA](https://stephenjia.github.io/). My research interests include Low-level Vision, AIGC, and 3D Vision.
+
+I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships!
+
+**Currently seeking Ph.D. or job opportunities.**
+
 
 <!-- I am always open to academic and industrial collaborations. My specific research interests include: -->
 
@@ -31,14 +36,11 @@ Prior to this, I received my Bachelor's degree in Artificial Intelligence (AI) a
 - **Video generation models as world simulators** (generalization, physics-compliance, memory consistency, and causal reasoning)
 - **Multi-agent embodied AI** -->
 
-I am always open to academic and industrial collaborations. Feel free to reach out for research discussions and potential collaborations!
-
-**Looking for a PhD or job position.**
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉 One paper is accepted in ICME 2025. 🎉
-- *2024.08*: &nbsp;🎉 Our "OmniSSR" is accepted in ECCV 2024 for <font color=Red>oral presentation</font>. 🎉
-- *2022.02*: &nbsp;🏆 We won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship. 🏆
+- *2025.06*: &nbsp;🎉 1 paper was accepted in ICME 2025.
+- *2024.09*: &nbsp;🎉 Our "OmniSSR" was accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
+- *2023.06*: &nbsp;🏆 We won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
 
 # 📝 Publications 
@@ -106,7 +108,7 @@ Xiaopeng Sun \*, Weiqi Li\*, Zhenyu Zhang, Qiufang Ma, **Xuhan Sheng**, et al.
 
 CVPR Workshops 2023
 
-- The **champion** solution for "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track".
+- The 🏆 **champion** solution for "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track".
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
 </div>
