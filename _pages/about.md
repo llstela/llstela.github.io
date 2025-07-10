@@ -21,7 +21,9 @@ Hi, I'm Xuhan, a second-year Master's student at the [Visual-Information Intelli
 
 Previously, I earned my Bachelor's degree in Artificial Intelligence from the [Dalian University of Technology](https://en.dlut.edu.cn/), under the supervision of Prof. [Xu JIA](https://stephenjia.github.io/). My research interests include Low-level Vision, AIGC, and 3D Vision.
 
-I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships!
+I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships! 
+
+Here is my [CV](llstela.github.io\docs\Xuhan_SHENG_Resume_EN_25.07.10.pdf) 
 
 **Currently seeking Ph.D. or job opportunities.**
 
