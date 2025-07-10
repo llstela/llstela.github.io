@@ -23,7 +23,7 @@ Previously, I earned my Bachelor's degree in Artificial Intelligence from the [D
 
 I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships! 
 
-Here is my [CV](llstela.github.io\docs\Xuhan_SHENG_Resume_EN_25.07.10.pdf) 
+Here is my [CV](llstela.github.io\docs\Xuhan_SHENG_Resume_EN_25.07.10.pdf). 
 
 **Currently seeking Ph.D. or job opportunities.**
 
