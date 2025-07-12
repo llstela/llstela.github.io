@@ -40,7 +40,7 @@ Here is my [CV](llstela.github.io\docs\Xuhan_SHENG_Resume_EN_25.07.10.pdf).
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉 1 paper was accepted in ICME 2025.
+- *2025.06*: &nbsp;🎉 1 paper was accepted in ICME 2025 for <font color=Red>oral presentation</font>.
 - *2024.09*: &nbsp;🎉 Our "OmniSSR" was accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
 - *2023.06*: &nbsp;🏆 We won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
