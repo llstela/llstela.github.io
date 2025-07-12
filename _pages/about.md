@@ -73,7 +73,7 @@ Preprint 2025
 
 Guanhua Zhao\*, Yu Gu\*, **Xuhan Sheng**, Yujie Hu, Jian Zhang\#
 
-ICME 2025
+ICME 2025, <font color=Red>Oral Presentation</font>
 
 - Proposed a facial retouching reversion algorithm capable of removing beautification effects such as "skin smoothing," "eye enlargement," and "face slimming."
 
