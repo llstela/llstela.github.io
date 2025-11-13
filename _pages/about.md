@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xuhan, a third-year Master's student at the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I am fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
+Hi, I'm Xuhan, a third-year Master's student at the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I am fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/). **I am expected to graduate in June 2026.**
 
 Previously, I earned my Bachelor's degree in Artificial Intelligence from the [Dalian University of Technology](https://en.dlut.edu.cn/), under the supervision of Prof. [Xu JIA](https://stephenjia.github.io/). My research interests include Low-level Vision, AIGC, and 3D Vision.
 
