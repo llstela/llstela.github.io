@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xuhan, a second-year Master's student at the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I am fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
+Hi, I'm Xuhan, a third-year Master's student at the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I am fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
 
 Previously, I earned my Bachelor's degree in Artificial Intelligence from the [Dalian University of Technology](https://en.dlut.edu.cn/), under the supervision of Prof. [Xu JIA](https://stephenjia.github.io/). My research interests include Low-level Vision, AIGC, and 3D Vision.
 
 I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships! 
 
-**Currently seeking Ph.D. or job opportunities.** Here is my [CV](docs/Xuhan_SHENG_Resume_EN_25.07.10.pdf). 
+**Currently seeking Ph.D. (2026 Fall / 2027 Spring) or job opportunities(2026 June).** Here is my [CV](https://drive.google.com/file/d/1X35JFzGbxj5AyuvOehDp_2YiLTw-droV/view?usp=sharing). 
 
 
 <!-- I am always open to academic and industrial collaborations. My specific research interests include: -->
