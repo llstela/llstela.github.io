@@ -143,9 +143,18 @@ CVPR Workshops 2023
     </div>
 </div>
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<span class='anchor' id='hobbies'></span>
+😊 Hobbies
+
+I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Miku (Please support Miku!). I am learning Cantonese.
+<!-- 插入图片 -->
+<div class="hobbies-gallery">
+    <img src="/images/hobbies/kyuudou.jpg" alt="Kyūdō" />
+    <img src="/images/hobbies/miku.jpg" alt="Hatsune Miku" />
+    <img src="/images/hobbies/piccolo.jpg" alt="Piccolo" />
+    <img src="/images/hobbies/YFL-411.jpg" alt="Yamaha YFL-411" />
+</div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
