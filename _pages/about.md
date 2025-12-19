@@ -145,7 +145,7 @@ CVPR Workshops 2023
 
 
 <span class='anchor' id='hobbies'></span>
-😊 Hobbies
+# 😊 Hobbies
 
 I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Miku. I am learning Cantonese.
 <!-- 插入图片 -->
