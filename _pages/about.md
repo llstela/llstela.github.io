@@ -147,13 +147,25 @@ CVPR Workshops 2023
 <span class='anchor' id='hobbies'></span>
 😊 Hobbies
 
-I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Miku (Please support Miku!). I am learning Cantonese.
+I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Miku. I am learning Cantonese.
 <!-- 插入图片 -->
 <div class="hobbies-gallery">
-    <img src="/images/hobbies/kyuudou.jpg" alt="Kyūdō" />
-    <img src="/images/hobbies/miku.jpg" alt="Hatsune Miku" />
-    <img src="/images/hobbies/piccolo.jpg" alt="Piccolo" />
-    <img src="/images/hobbies/YFL-411.jpg" alt="Yamaha YFL-411" />
+    <figure>
+        <img src="/images/hobbies/kyuudou.jpg" alt="Kyūdō">
+        <figcaption>Kyūdō beginner certificate</figcaption>
+    </figure>
+    <figure>
+        <img src="/images/hobbies/miku.jpg" alt="Hatsune Miku">
+        <figcaption>39 for supporting Miku!</figcaption>
+    </figure>
+    <figure>
+        <img src="/images/hobbies/piccolo.jpg" alt="Piccolo">
+        <figcaption>Piccolo</figcaption>
+    </figure>
+    <figure>
+        <img src="/images/hobbies/YFL-411.jpg" alt="YFL-411">
+        <figcaption>Yamaha YFL-411</figcaption>
+    </figure>
 </div>
 
 <!-- # 💬 Invited Talks

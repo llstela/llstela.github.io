@@ -1,0 +1,13 @@
+.hobbies-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.hobbies-gallery img {
+    width: 100%;
+    max-width: 220px;
+    border-radius: 8px;
+    object-fit: cover;
+}
