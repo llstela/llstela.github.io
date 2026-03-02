@@ -81,7 +81,7 @@ ICME 2025, <font color=Red>Oral Presentation</font>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='/images/logo/pku_logo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='/images/omnidrag_teaser.png' alt='OmniDrag teaser' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**](https://link.springer.com/article/10.1007/s11263-025-02629-7)
@@ -95,7 +95,7 @@ IJCV 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/logo/pku_logo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
