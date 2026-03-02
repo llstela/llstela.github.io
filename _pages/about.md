@@ -65,19 +65,17 @@ Preprint 2025, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='/images/Re-Face.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
+[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
-[**Label-guided Facial Retouching Reversion**](https://arxiv.org/abs/2404.14177)
+Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
 
-Guanhua Zhao\*, Yu Gu\*, **Xuhan Sheng**, Yujie Hu, Jian Zhang\#
+PRCV 2025
 
-ICME 2025, <font color=Red>Oral Presentation</font>
+- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
 
-- Proposed a facial retouching reversion algorithm capable of removing beautification effects such as "skin smoothing," "eye enlargement," and "face slimming."
-
-[**Paper**](https://arxiv.org/abs/2404.14177)
 </div>
 </div>
 
@@ -95,22 +93,25 @@ IJCV 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='/images/Re-Face.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
-Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
+[**Label-guided Facial Retouching Reversion**](https://arxiv.org/abs/2404.14177)
 
-PRCV 2025
+Guanhua Zhao\*, Yu Gu\*, **Xuhan Sheng**, Yujie Hu, Jian Zhang\#
 
-- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
+ICME 2025, <font color=Red>Oral Presentation</font>
 
+- Proposed a facial retouching reversion algorithm capable of removing beautification effects such as "skin smoothing," "eye enlargement," and "face slimming."
+
+[**Paper**](https://arxiv.org/abs/2404.14177)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/OmniSSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**](https://eccv.ecva.net/virtual/2024/poster/1971)
 
