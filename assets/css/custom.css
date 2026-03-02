@@ -1,13 +1,40 @@
 .hobbies-gallery {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     gap: 16px;
     margin-top: 16px;
 }
 
+.hobbies-gallery figure {
+    margin: 0;
+}
+
+.hobbies-gallery a {
+    display: block;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.hobbies-gallery a:focus-visible {
+    outline: 2px solid #4a90e2;
+    outline-offset: 2px;
+}
+
 .hobbies-gallery img {
+    display: block;
     width: 100%;
-    max-width: 220px;
-    border-radius: 8px;
+    aspect-ratio: 4 / 3;
     object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.25s ease;
+}
+
+.hobbies-gallery a:hover img,
+.hobbies-gallery a:focus-visible img {
+    transform: scale(1.03);
+}
+
+.hobbies-gallery figcaption {
+    margin-top: 6px;
+    font-size: 0.9rem;
 }

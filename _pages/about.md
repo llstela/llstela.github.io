@@ -23,7 +23,7 @@ Previously, I earned my Bachelor's degree in Artificial Intelligence from the [D
 
 I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships! 
 
-**Currently seeking Ph.D. (2026 Fall / 2027 Spring) or job opportunities(2026 June).** Here is my [CV](https://drive.google.com/file/d/1X35JFzGbxj5AyuvOehDp_2YiLTw-droV/view?usp=sharing). 
+**Currently seeking Ph.D. (2026 Fall / 2027 Spring) or job opportunities(2026 June).** Here is my [CV](/docs/Xuhan_SHENG_Resume_EN_26.02.05.pdf). 
 
 
 <!-- I am always open to academic and industrial collaborations. My specific research interests include: -->
@@ -38,9 +38,11 @@ I am always open to academic and industry collaborations. Feel free to reach out
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉 1 paper was accepted in ICME 2025 for <font color=Red>oral presentation</font>.
-- *2024.09*: &nbsp;🎉 Our "OmniSSR" was accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
-- *2023.06*: &nbsp;🏆 We won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
+- *2025.09*: &nbsp;🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
+- *2025.08*: &nbsp;🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
+- *2025.06*: &nbsp;🎉 **Collaboration**: 1 paper accepted in ICME 2025 for <font color=Red>oral presentation</font>.
+- *2024.09*: &nbsp;🎉 **First-author**: 1 paper ("OmniSSR") accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
+- *2023.06*: &nbsp;🏆 **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
 
 # 📝 Publications 
@@ -54,7 +56,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 
 **Xuhan Sheng**\*, Runyi Li\*, Bin Chen, Weiqi Li, Xu Jiang, Jian Zhang\#
 
-Preprint 2025
+Preprint 2025, Under Review
 
 - A **one-step** denoising diffusion model with **latent unfolding** in the latent space for real-world 360° image super-resolution, achieving ×200 acceleration.
 
@@ -76,6 +78,34 @@ ICME 2025, <font color=Red>Oral Presentation</font>
 - Proposed a facial retouching reversion algorithm capable of removing beautification effects such as "skin smoothing," "eye enlargement," and "face slimming."
 
 [**Paper**](https://arxiv.org/abs/2404.14177)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='/images/logo/pku_logo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**
+
+Weiqi Li, Shijie Zhao, Chong Mou, **Xuhan Sheng**, et al.
+
+IJCV 2025
+
+- First diffusion-based framework enabling precise drag-style motion control for omnidirectional image-to-video generation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/logo/pku_logo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**
+
+Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
+
+PRCV 2025
+
+- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
+
 </div>
 </div>
 
@@ -147,23 +177,33 @@ CVPR Workshops 2023
 <span class='anchor' id='hobbies'></span>
 # 😊 Hobbies
 
+<p style="margin: 0.2rem 0 0.8rem; font-size: 0.9rem; opacity: 0.8;"><em>Click image to zoom.</em></p>
+
 I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Miku. I am learning Cantonese.
 <!-- 插入图片 -->
 <div class="hobbies-gallery">
     <figure>
-        <img src="/images/hobbies/kyuudou.jpg" alt="Kyūdō">
+        <a href="/images/hobbies/kyuudou.jpg" aria-label="Open Kyūdō image">
+        <img src="/images/hobbies/kyuudou.jpg" alt="Kyūdō" loading="lazy" decoding="async">
+        </a>
         <figcaption>Kyūdō beginner certificate</figcaption>
     </figure>
     <figure>
-        <img src="/images/hobbies/miku.jpg" alt="Hatsune Miku">
+        <a href="/images/hobbies/miku.jpg" aria-label="Open Hatsune Miku image">
+        <img src="/images/hobbies/miku.jpg" alt="Hatsune Miku" loading="lazy" decoding="async">
+        </a>
         <figcaption>39 for supporting Miku!</figcaption>
     </figure>
     <figure>
-        <img src="/images/hobbies/piccolo.jpg" alt="Piccolo">
+        <a href="/images/hobbies/piccolo.jpg" aria-label="Open Piccolo image">
+        <img src="/images/hobbies/piccolo.jpg" alt="Piccolo" loading="lazy" decoding="async">
+        </a>
         <figcaption>Piccolo</figcaption>
     </figure>
     <figure>
-        <img src="/images/hobbies/YFL-411.jpg" alt="YFL-411">
+        <a href="/images/hobbies/YFL-411.jpg" aria-label="Open Yamaha YFL-411 image">
+        <img src="/images/hobbies/YFL-411.jpg" alt="YFL-411" loading="lazy" decoding="async">
+        </a>
         <figcaption>Yamaha YFL-411</figcaption>
     </figure>
 </div>
