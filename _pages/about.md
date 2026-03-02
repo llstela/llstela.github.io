@@ -52,7 +52,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/RealOSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution](https://arxiv.org/abs/2412.09646)
+[**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution**](https://arxiv.org/abs/2412.09646)
 
 **Xuhan Sheng**\*, Runyi Li\*, Bin Chen, Weiqi Li, Xu Jiang, Jian Zhang\#
 
@@ -69,7 +69,7 @@ Preprint 2025, Under Review
 <div class='paper-box-text' markdown="1">
 
 
-[Label-guided Facial Retouching Reversion](https://arxiv.org/abs/2404.14177)
+[**Label-guided Facial Retouching Reversion**](https://arxiv.org/abs/2404.14177)
 
 Guanhua Zhao\*, Yu Gu\*, **Xuhan Sheng**, Yujie Hu, Jian Zhang\#
 
@@ -84,7 +84,7 @@ ICME 2025, <font color=Red>Oral Presentation</font>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='/images/logo/pku_logo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**
+[**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**](https://link.springer.com/article/10.1007/s11263-025-02629-7)
 
 Weiqi Li, Shijie Zhao, Chong Mou, **Xuhan Sheng**, et al.
 
@@ -98,7 +98,7 @@ IJCV 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/logo/pku_logo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**
+[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
 Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
 
@@ -111,7 +111,8 @@ PRCV 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/OmniSSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model](https://eccv.ecva.net/virtual/2024/poster/1971)
+
+[**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**](https://eccv.ecva.net/virtual/2024/poster/1971)
 
 Runyi Li\*, **Xuhan Sheng**\*, Weiqi Li, Jian Zhang\#
 
@@ -132,7 +133,7 @@ ECCV 2024, <font color=Red>Oral Presentation</font>
 <div class='paper-box-text' markdown="1">
 
 
-[OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
+[**OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution**](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
 
 Xiaopeng Sun \*, Weiqi Li\*, Zhenyu Zhang, Qiufang Ma, **Xuhan Sheng**, et al.
 
