@@ -43,7 +43,7 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/tencent_logo.png" alt="Tencent Logo" width="80">
+        <img src="/images/logo/tencent_logo.png" alt="Tencent Logo">
     </div>
     <div class="experience-box-text">
         <p><strong>2026.03 - Present</strong></p>
@@ -54,7 +54,7 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
 <div class="experience-box">
     <div class="experience-box-logo experience-box-logo--wide">
-        <img src="/images/logo/oppo_logo.png" alt="OPPO Logo" width="90">
+        <img src="/images/logo/oppo_logo.png" alt="OPPO Logo">
     </div>
     <div class="experience-box-text">
         <p><strong>2025.05 - 2025.09</strong></p>
@@ -180,7 +180,7 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/science_tokyo_logo.png" alt="Institute of Science Tokyo Logo" width="80">
+        <img src="/images/logo/science_tokyo_logo.png" alt="Institute of Science Tokyo Logo">
     </div>
     <div class="experience-box-text">
         <p><strong>2026.10 - Present</strong></p>
@@ -191,7 +191,7 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/pku_logo.png" alt="Peking University Logo" width="80" height="80">
+        <img src="/images/logo/pku_logo.png" alt="Peking University Logo">
     </div>
     <div class="experience-box-text">
         <p><strong>2023.09 - 2026.06</strong></p>
@@ -202,7 +202,7 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/dut_logo.png" alt="DUT Logo" width="80" height="80">
+        <img src="/images/logo/dut_logo.png" alt="DUT Logo">
     </div>
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
