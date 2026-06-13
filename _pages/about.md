@@ -26,21 +26,25 @@ I am always open to academic and industry collaborations. Feel free to reach out
 Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
 
-# News
-- *2026.10*: I will start my Ph.D. in Computer Science at the Institute of Science Tokyo.
-- *2026.03*: I joined Tencent IEG, Game AI Engine Department, as an intern working on AI image restoration and super-resolution for game content enhancement.
-- *2025.09*: **Collaboration**: 1 paper accepted in PRCV 2025.
-- *2025.08*: **Collaboration**: 1 paper accepted in IJCV 2025.
-- *2025.06*: **Collaboration**: 1 paper accepted in ICME 2025 for <font color=Red>oral presentation</font>.
-- *2025.05*: I joined OPPO Research Institute as an Imaging Algorithm Engineer Intern in the AI Talent Program.
-- *2024.09*: **First-author**: 1 paper ("OmniSSR") accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
-- *2023.06*: **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
+<span class='anchor' id='news'></span>
+# 🔥 News
+- *2026.10*: 🚀 I will start my Ph.D. in Computer Science at the Institute of Science Tokyo.
+- *2026.03*: 🎮 I joined Tencent IEG, Game AI Engine Department, as an intern working on AI image restoration and super-resolution for game content enhancement.
+- *2025.09*: 🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
+- *2025.08*: 🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
+- *2025.06*: 🎉 **Collaboration**: 1 paper accepted in ICME 2025 for <font color=Red>oral presentation</font>.
+- *2025.05*: 🎯 I joined OPPO Research Institute as an Imaging Algorithm Engineer Intern in the AI Talent Program.
+- *2024.09*: 🎉 **First-author**: 1 paper ("OmniSSR") accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
+- *2023.06*: 🏆 **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
 
 <span class='anchor' id='experience'></span>
-# Experience
+# 💼 Experience
 
 <div class="experience-box">
+    <div class="experience-box-logo">
+        <img src="/images/logo/tencent_logo.png" alt="Tencent Logo" width="80">
+    </div>
     <div class="experience-box-text">
         <p><strong>2026.03 - Present</strong></p>
         <p>Intern, Tencent IEG, Game AI Engine Department</p>
@@ -49,6 +53,9 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 </div>
 
 <div class="experience-box">
+    <div class="experience-box-logo experience-box-logo--wide">
+        <img src="/images/logo/oppo_logo.png" alt="OPPO Logo" width="90">
+    </div>
     <div class="experience-box-text">
         <p><strong>2025.05 - 2025.09</strong></p>
         <p>Imaging Algorithm Engineer Intern, OPPO Research Institute</p>
@@ -58,7 +65,7 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
 
 <span class='anchor' id='research-interests'></span>
-# Research Interests
+# 🔬 Research Interests
 
 - Efficient vision encoders with dynamic visual token compression and pruning for real-time VLA models.
 - Dual VLA systems that combine high-level reasoning models and low-level execution models for long-horizon tasks and cross-embodiment.
@@ -66,7 +73,8 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 - Vision-language models for artifact localization and AI-based image enhancement.
 
 
-# Publications
+<span class='anchor' id='publications'></span>
+# 📑 Publications
 
 (*: indicates equal contribution; #: indicates corresponding author)
 
@@ -168,9 +176,12 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 
 
 <span class='anchor' id='educations'></span>
-# Educations
+# 🎓 Educations
 
 <div class="experience-box">
+    <div class="experience-box-logo">
+        <img src="/images/logo/science_tokyo_logo.png" alt="Institute of Science Tokyo Logo" width="80">
+    </div>
     <div class="experience-box-text">
         <p><strong>2026.10 - Present</strong></p>
         <p>Incoming Ph.D. Student, Department of Computer Science, <a href="https://www.isct.ac.jp/en/">Institute of Science Tokyo</a></p>
@@ -202,7 +213,7 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 
 
 <span class='anchor' id='awards'></span>
-# Honors and Awards
+# 🏅 Honors and Awards
 
 - *2024*, Peking University Academic Excellence Award.
 - *2023*, Dalian University of Technology University-level Outstanding Graduate.
@@ -212,7 +223,7 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 
 
 <span class='anchor' id='hobbies'></span>
-# Hobbies
+# 😊 Hobbies
 
 <p style="margin: 0.2rem 0 0.8rem; font-size: 0.9rem; opacity: 0.8;"><em>Click image to zoom.</em></p>
 
