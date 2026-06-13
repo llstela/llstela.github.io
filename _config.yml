@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xuhan SHENG"
-description              : "Research interests: Low-level Vision, AIGC, 3D Vision."
-repository               : "llstela/shengxuhan-student.github.io"
+description              : "Research interests: Low-level Vision, Diffusion Models, Vision-Language Models, and Efficient Vision Encoders."
+repository               : "llstela/llstela.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuhan SHENG"
   avatar           : "images/profile.png"
-  bio              : "Master student at Peking University, China."
-  location         : "Shenzhen, China"
-  employer         :
+  bio              : "Incoming Ph.D. student at Institute of Science Tokyo."
+  location         : "Tokyo, Japan / Shenzhen, China"
+  employer         : "Institute of Science Tokyo"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7Sfji6YAAAAJ"
-  email            : "llstela.sxh@gmail.com"
+  email            : "shengxuhan@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
