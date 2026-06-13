@@ -40,42 +40,116 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
 
-@media (min-width: 1024px) {
-  .page {
-    padding-right: 0 !important;
-  }
-  .page__inner-wrap {
-    padding-right: 0 !important;
-  }
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
 }
-/* ====================================================
-   响应式调整：手机端图在上(居中)、字在下(左对齐)，不影响电脑端 
-   ==================================================== */
-@media screen and (max-width: 768px) {
-  /* 1. 强制改为纵向排布 */
-  .publication-card > div[style*="display: flex"] {
-    flex-direction: column !important;
-    align-items: flex-start !important; /* 保持文字靠左对齐，阅读体验更好 */
-  }
 
-  /* 2. 调整图片外层容器 (.pub-media-rotator) 并让其单独居中 */
-  .publication-card .pub-media-rotator {
-    align-self: center !important;   /* 【核心修改】让图片在这个列中单独居中 */
-    margin-right: 0 !important;      /* 取消原来的右边距 */
-    margin-bottom: 15px !important;  /* 增加下边距，隔开文字 */
-    width: 100% !important;          
-    max-width: 320px !important;     /* 限制图片最大宽度 */
-    height: auto !important;         
-    flex: none !important;           
-  }
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
 
-  /* 3. 调整内部图片尺寸 */
-  .publication-card .pub-media-rotator img {
-    width: 100% !important;
-    height: auto !important;
-    max-height: 180px !important;    
-    object-fit: contain !important;
-    margin: 0 auto !important;       /* 确保图片本身在容器内部也居中 */
-  }
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+.experience-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0.5em 0; /* 进一步减少内边距，使每项之间更紧凑 */
+}
+
+.experience-box-logo {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 1;
+    img {
+        max-width: 60px; /* 进一步调整logo的最大宽度为60px */
+        object-fit: cover; /* 去掉阴影效果 */
+    }
+}
+
+.experience-box-text {
+    max-width: 100%;
+    order: 2;
+    padding-left: 0.5em; /* 减少文字描述与logo之间的间距 */
+    text-align: left; /* 设置文字左对齐 */
+    margin: 0; /* 去掉默认的段落间距 */
+}
+
+@include breakpoint($medium) {
+    .experience-box-logo {
+        justify-content: left;
+        min-width: 60px; /* 进一步调整logo的最小宽度为60px */
+        max-width: 8%; /* 设置logo的最大宽度为10% */
+        order: 1;
+    }
+    
+    .experience-box-text {
+        justify-content: left;
+        padding-left: 1em; /* 减少文字描述与logo之间的间距 */
+        max-width: 85%; /* 设置文字描述的最大宽度为85% */
+        order: 2;
+        text-align: left; /* 设置文字左对齐 */
+        margin: 0; /* 去掉默认的段落间距 */
+    }
 }

@@ -1,23 +1,22 @@
 # main links links
-
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
   - title: "News"
-    url: "/#news"
-
-  - title: "Education"
-    url: "/#education"
-
-  - title: "Experience"
-    url: "/#experience"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
-  - title: "Research"
-    url: "/#research"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
-  - title: "Awards"
-    url: "/#awards"
-    
-  - title: "CV"
-    url: "/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf"
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Hobbies"
+    url: "/#-hobbies"
+
+  # - title: "Internships"
+  #   url: "/#-internships"
