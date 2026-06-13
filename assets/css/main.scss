@@ -111,7 +111,7 @@ h1:before, .anchor:before {
 .experience-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 0.5em 0; /* 进一步减少内边距，使每项之间更紧凑 */
@@ -128,20 +128,30 @@ h1:before, .anchor:before {
     }
 }
 
-.experience-box-logo img {
-    width: 78px;
-    height: 78px;
-    object-fit: contain;
-    padding: 6px;
+.experience-logo-card {
+    width: 86px;
+    height: 86px;
+    padding: 8px;
     background: #fff;
     border-radius: 6px;
     box-shadow: 3px 3px 6px #888;
 }
 
-.experience-box-logo--wide img {
-    width: 78px;
-    height: 78px;
+.experience-box-logo--wide .experience-logo-card {
     padding: 10px;
+}
+
+.experience-box-logo .experience-logo-card img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    max-height: none;
+    padding: 0;
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    object-fit: contain;
 }
 
 .experience-box-text {
@@ -155,15 +165,16 @@ h1:before, .anchor:before {
 @include breakpoint($medium) {
     .experience-box-logo {
         justify-content: left;
-        min-width: 60px; /* 进一步调整logo的最小宽度为60px */
-        max-width: 8%; /* 设置logo的最大宽度为10% */
+        flex: 0 0 104px;
+        min-width: 104px;
+        max-width: 104px;
         order: 1;
     }
     
     .experience-box-text {
         justify-content: left;
         padding-left: 1em; /* 减少文字描述与logo之间的间距 */
-        max-width: 85%; /* 设置文字描述的最大宽度为85% */
+        max-width: calc(100% - 104px);
         order: 2;
         text-align: left; /* 设置文字左对齐 */
         margin: 0; /* 去掉默认的段落间距 */
