@@ -48,8 +48,8 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
         </div>
     </div>
     <div class="experience-box-text">
-        <p><strong>2026.03 - Present</strong></p>
-        <p><strong>Intern</strong>, <strong>Tencent IEG</strong>, Game AI Engine Department</p>
+        <p class="experience-title"><strong>Tencent IEG</strong>, Game AI Engine Department</p>
+        <p class="experience-meta"><strong>2026.03 - Present</strong> · Intern</p>
         <p>Working on <strong>image super-resolution</strong> based on <strong>Qwen-Image</strong> for game content enhancement, and developing <strong>AI-based image restoration</strong> techniques for production-level visual assets.</p>
     </div>
 </div>
@@ -61,8 +61,8 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
         </div>
     </div>
     <div class="experience-box-text">
-        <p><strong>2025.05 - 2025.09</strong></p>
-        <p><strong>Imaging Algorithm Engineer Intern</strong>, <strong>OPPO Research Institute</strong></p>
+        <p class="experience-title"><strong>OPPO Research Institute</strong></p>
+        <p class="experience-meta"><strong>2025.05 - 2025.09</strong> · Imaging Algorithm Engineer Intern</p>
         <p>Worked on <strong>vision-language models</strong> for assisting <strong>AI-based image enhancement</strong>. Advisor: Prof. <a href="https://www4.comp.polyu.edu.hk/~cslzhang/">Lei Zhang</a>.</p>
     </div>
 </div>
@@ -189,8 +189,8 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
         </div>
     </div>
     <div class="experience-box-text">
-        <p><strong>2026.10 - Present</strong></p>
-        <p>Incoming Ph.D. Student, Department of Computer Science, <a href="https://www.isct.ac.jp/en/">Institute of Science Tokyo</a></p>
+        <p class="experience-title"><strong><a href="https://www.isct.ac.jp/en/">Institute of Science Tokyo</a></strong>, Department of Computer Science</p>
+        <p class="experience-meta"><strong>2026.10 - Present</strong> · Incoming Ph.D. Student</p>
         <p>Advisor: Prof. <a href="https://www.rio.gsic.titech.ac.jp/">Rio Yokota</a></p>
     </div>
 </div>
@@ -202,8 +202,8 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
         </div>
     </div>
     <div class="experience-box-text">
-        <p><strong>2023.09 - 2026.06</strong></p>
-        <p>Master Student, <a href="https://english.pku.edu.cn/">Peking University</a>, <a href="https://villa.jianzhang.tech/">VILLA Lab</a></p>
+        <p class="experience-title"><strong><a href="https://english.pku.edu.cn/">Peking University</a></strong>, <a href="https://villa.jianzhang.tech/">VILLA Lab</a></p>
+        <p class="experience-meta"><strong>2023.09 - 2026.06</strong> · Master Student</p>
         <p>Advisor: Prof. <a href="https://jianzhang.tech/">Jian ZHANG</a>; GPA: 3.87/4.00</p>
     </div>
 </div>
@@ -215,8 +215,8 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
         </div>
     </div>
     <div class="experience-box-text">
-        <p><strong>2019.09 - 2023.06</strong></p>
-        <p>Bachelor Student, <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a></p>
+        <p class="experience-title"><strong><a href="https://en.dlut.edu.cn/">Dalian University of Technology</a></strong></p>
+        <p class="experience-meta"><strong>2019.09 - 2023.06</strong> · Bachelor Student</p>
         <p>Advisor: Prof. <a href="https://stephenjia.github.io/">Xu JIA</a>; GPA: 4.17/5.00</p>
     </div>
 </div>
