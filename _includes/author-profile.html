@@ -5,7 +5,18 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% assign default_avatar = author.avatar | relative_url %}
+    <img src="{{ default_avatar }}" class="author__avatar" alt="{{ author.name }}" data-random-avatars="{{ default_avatar }}|{{ '/images/profile/guangzhou_music.jpg' | relative_url }}|{{ '/images/profile/wutongshan_summit.jpg' | relative_url }}|{{ '/images/profile/wutongshan_descent.jpg' | relative_url }}">
+    <script>
+      (function() {
+        var script = document.currentScript;
+        var img = script && script.previousElementSibling;
+        if (!img) return;
+        var avatars = (img.getAttribute('data-random-avatars') || '').split('|').filter(Boolean);
+        if (!avatars.length) return;
+        img.src = avatars[Math.floor(Math.random() * avatars.length)];
+      })();
+    </script>
   </div>
 
   <div class="author__content">
