@@ -98,18 +98,18 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='/images/OmniSSR.jpg' alt="OmniSSR overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**](https://eccv.ecva.net/virtual/2024/poster/1971)
+[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
-Runyi Li\*, **Xuhan Sheng**\*, Weiqi Li, Jian Zhang\#
+Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
 
-ECCV 2024, <font color=Red>Oral Presentation</font>
+PRCV 2025
 
-- The first zero-shot omnidirectional image super-resolution method leveraging Stable Diffusion priors, integrating tangent information interaction and gradient decomposition without training.
+- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
 
-[**Paper**](https://eccv.ecva.net/virtual/2024/poster/1971) **\|** [**Project Page**](https://lirunyi2001.github.io/projects/omnissr/) **\|** [**GitHub**](https://github.com/LiRunyi2001/OmniSSR)
+[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
 </div>
 </div>
@@ -130,22 +130,6 @@ IJCV 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
-
-Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
-
-PRCV 2025
-
-- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
-
-[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Oral</div><img src='/images/Re-Face.jpg' alt="Re-Face overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -158,6 +142,22 @@ ICME 2025, <font color=Red>Oral Presentation</font>
 - A diffusion-based method for reversing facial retouching effects such as skin smoothing, eye enlargement, and face slimming.
 
 [**Paper**](https://arxiv.org/abs/2404.14177)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='/images/OmniSSR.jpg' alt="OmniSSR overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**](https://eccv.ecva.net/virtual/2024/poster/1971)
+
+Runyi Li\*, **Xuhan Sheng**\*, Weiqi Li, Jian Zhang\#
+
+ECCV 2024, <font color=Red>Oral Presentation</font>
+
+- The first zero-shot omnidirectional image super-resolution method leveraging Stable Diffusion priors, integrating tangent information interaction and gradient decomposition without training.
+
+[**Paper**](https://eccv.ecva.net/virtual/2024/poster/1971) **\|** [**Project Page**](https://lirunyi2001.github.io/projects/omnissr/) **\|** [**GitHub**](https://github.com/LiRunyi2001/OmniSSR)
 
 </div>
 </div>
