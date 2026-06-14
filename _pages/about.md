@@ -49,8 +49,8 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
     </div>
     <div class="experience-box-text">
         <p><strong>2026.03 - Present</strong></p>
-        <p>Intern, Tencent IEG, Game AI Engine Department</p>
-        <p>Working on image super-resolution based on Qwen-Image for game content enhancement, and developing AI-based image restoration techniques for production-level visual assets.</p>
+        <p><strong>Intern</strong>, <strong>Tencent IEG</strong>, Game AI Engine Department</p>
+        <p>Working on <strong>image super-resolution</strong> based on <strong>Qwen-Image</strong> for game content enhancement, and developing <strong>AI-based image restoration</strong> techniques for production-level visual assets.</p>
     </div>
 </div>
 
@@ -62,8 +62,8 @@ Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
     </div>
     <div class="experience-box-text">
         <p><strong>2025.05 - 2025.09</strong></p>
-        <p>Imaging Algorithm Engineer Intern, OPPO Research Institute</p>
-        <p>Worked on vision-language models for assisting AI-based image enhancement. Advisor: Prof. Lei Zhang.</p>
+        <p><strong>Imaging Algorithm Engineer Intern</strong>, <strong>OPPO Research Institute</strong></p>
+        <p>Worked on <strong>vision-language models</strong> for assisting <strong>AI-based image enhancement</strong>. Advisor: Prof. <a href="https://www4.comp.polyu.edu.hk/~cslzhang/">Lei Zhang</a>.</p>
     </div>
 </div>
 
