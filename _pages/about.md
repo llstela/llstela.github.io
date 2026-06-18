@@ -31,11 +31,11 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.10*: 🚀 I will begin my Ph.D. studies at the Institute of Science Tokyo.
-- *2026.03*: 🎮 I joined Tencent IEG, Game AI Engine Department, as an intern working on AI image restoration and super-resolution for game content enhancement.
+- *2026.03*: 🎮 Started my internship at Tencent IEG (Game AI).
 - *2025.09*: 🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
 - *2025.08*: 🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
 - *2025.06*: 🎉 **Collaboration**: 1 paper accepted in ICME 2025 for <font color=Red>oral presentation</font>.
-- *2025.05*: 🎯 I joined OPPO Research Institute as an Imaging Algorithm Engineer Intern in the AI Talent Program.
+- *2025.05*: 🎯 Started my internship at OPPO Research Institute (AI Talent Program).
 - *2024.09*: 🎉 **First-author**: 1 paper ("OmniSSR") accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
 - *2023.06*: 🏆 **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
