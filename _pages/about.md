@@ -22,7 +22,7 @@ redirect_from:
   <p class="collaboration-banner__lead">At the Institute of Science Tokyo, access to up to <span class="collaboration-banner__highlight">128 NVIDIA H100 GPUs</span> is available for my independent open-ended research.</p>
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
-Hi, I'm Xuhan, an incoming Ph.D. student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/) (formerly Tokyo Institute of Technology), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University (PKU)](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
+Hi, I'm Xuhan, an incoming Ph.D. student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/) (formerly Tokyo Institute of Technology), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
 
 My current research interests are in world models and MLLM.
 
@@ -51,7 +51,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
     <div class="experience-box-text">
         <p class="experience-title"><strong>Tencent IEG</strong>, Game AI Engine Department</p>
         <p class="experience-meta"><strong>2026.03 - Present</strong> · Intern</p>
-        <p>Working on <strong>image super-resolution</strong> based on <strong>Qwen-Image</strong> for game content enhancement, and developing <strong>AI-based image restoration</strong> techniques for production-level visual assets.</p>
+        <p>Working on <strong>Qwen-Image-based image enhancement </strong> for game content and production-level visual assets.</p>
     </div>
 </div>
 
@@ -71,10 +71,8 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 
-- World models for long-horizon prediction, planning, and multimodal decision-making.
-- MLLM systems for perception, reasoning, and grounded interaction.
-- Efficient vision encoders with dynamic visual token compression and pruning for real-time visual agents.
-- Diffusion-based restoration and generation for panoramic and omnidirectional visual content.
+- World models for interactive long-video generation, with research focused on post-training and distillation for acceleration.
+- Diffusion-based restoration and generation for panoramic visual content.
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
