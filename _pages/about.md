@@ -30,12 +30,12 @@ I am always open to academic and industry collaborations. Feel free to reach out
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.10*: 🚀 I will begin my Ph.D. studies at the Institute of Science Tokyo.
-- *2026.03*: 🎮 Started my internship at Tencent IEG (Game AI).
+- *2026.10*: 🎓 I will begin my Ph.D. studies at the Institute of Science Tokyo.
+- *2026.03*: 💼 Started my internship at Tencent IEG (Game AI Engine Department).
 - *2025.09*: 🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
 - *2025.08*: 🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
 - *2025.06*: 🎉 **Collaboration**: 1 paper accepted in ICME 2025 for <font color=Red>oral presentation</font>.
-- *2025.05*: 🎯 Started my internship at OPPO Research Institute (AI Talent Program).
+- *2025.05*: 💼 Started my internship at OPPO Research Institute (AI Talent Program).
 - *2024.09*: 🎉 **First-author**: 1 paper ("OmniSSR") accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
 - *2023.06*: 🏆 **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
@@ -49,7 +49,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
         </div>
     </div>
     <div class="experience-box-text">
-        <p class="experience-title"><strong>Tencent IEG</strong>, Game AI Engine Department</p>
+        <p class="experience-title"><strong>Tencent, IEG</strong>, Game AI Engine Department</p>
         <p class="experience-meta"><strong>2026.03 - Present</strong> · Intern</p>
         <ul class="experience-bullets">
             <li><strong>Qwen-Image-based image enhancement</strong> for game content and production-level visual assets.</li>
