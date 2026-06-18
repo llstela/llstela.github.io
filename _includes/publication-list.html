@@ -13,7 +13,7 @@
 
 <div class="paper-box-summary">{{ paper.summary }}</div>
 
-<div class="paper-box-links">{% for item in paper.links %}[**{{ item.label }}**]({{ item.url }}){% unless forloop.last %} <span class="paper-box-link-sep">|</span> {% endunless %}{% endfor %}</div>
+<div class="paper-box-links">{% for item in paper.links %}<a href="{{ item.url }}"><strong>{{ item.label }}</strong></a>{% unless forloop.last %} <span class="paper-box-link-sep">|</span> {% endunless %}{% endfor %}</div>
 
 </div>
 </div>
