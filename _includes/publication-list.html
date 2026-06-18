@@ -5,15 +5,15 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ paper.badge }}</div><img src='{{ paper.image }}' alt="{{ paper.image_alt }}" width="{{ paper.image_width }}"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**{{ paper.title }}**]({{ paper.link }})
+<span class="paper-box-title">[**{{ paper.title }}**]({{ paper.link }})</span>
 
-{{ paper.authors }}
+<div class="paper-box-authors">{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 
-{{ paper.venue }}
+<div class="paper-box-venue"><span class="paper-box-venue-chip">{{ paper.venue }}</span></div>
 
-- {{ paper.summary }}
+<div class="paper-box-summary">{{ paper.summary }}</div>
 
-{% for item in paper.links %}[**{{ item.label }}**]({{ item.url }}){% unless forloop.last %} **\|** {% endunless %}{% endfor %}
+<div class="paper-box-links">{% for item in paper.links %}[**{{ item.label }}**]({{ item.url }}){% unless forloop.last %} <span class="paper-box-link-sep">|</span> {% endunless %}{% endfor %}</div>
 
 </div>
 </div>

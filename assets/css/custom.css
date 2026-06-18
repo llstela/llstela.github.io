@@ -99,6 +99,9 @@
 
 .paper-box {
     align-items: flex-start;
+    gap: 2rem;
+    padding: 2.4rem 0;
+    border-bottom: 1px solid rgba(31, 42, 55, 0.1);
 }
 
 .paper-box .paper-box-image > div {
@@ -173,4 +176,122 @@
         font-size: 0.72rem;
     }
 
+}
+
+.paper-box .paper-box-image {
+    width: 100%;
+}
+
+.paper-box .paper-box-text {
+    color: #3f4752;
+}
+
+.paper-box .paper-box-text > *:first-child {
+    margin-top: 0;
+}
+
+.paper-box-title {
+    display: block;
+    margin: 0 0 0.95rem;
+    font-size: 1.55rem;
+    line-height: 1.42;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+}
+
+.paper-box-title a {
+    color: #4a4f57;
+    text-decoration: none;
+}
+
+.paper-box-title a:hover,
+.paper-box-title a:focus-visible {
+    color: #1e4fa8;
+    text-decoration: none;
+}
+
+.paper-box-authors {
+    margin: 0 0 0.95rem;
+    font-size: 1.02rem;
+    line-height: 1.65;
+    color: #505865;
+}
+
+.paper-box-venue {
+    margin: 0 0 1rem;
+}
+
+.paper-box-venue-chip {
+    display: inline-block;
+    padding: 0.36rem 0.88rem;
+    border-radius: 999px;
+    background: #fff0b8;
+    color: #494034;
+    font-size: 0.98rem;
+    font-weight: 800;
+    line-height: 1.35;
+}
+
+.paper-box-summary {
+    margin: 0 0 1rem;
+    font-size: 0.98rem;
+    line-height: 1.72;
+    color: #5b6470;
+}
+
+.paper-box-links {
+    font-size: 1rem;
+    font-weight: 800;
+    line-height: 1.7;
+}
+
+.paper-box-links a {
+    color: #1f4d98;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 0.12em;
+}
+
+.paper-box-link-sep {
+    margin: 0 0.18rem;
+    color: #7c8696;
+    font-weight: 600;
+}
+
+@media (min-width: 768px) {
+    .paper-box .paper-box-image {
+        min-width: 260px;
+        max-width: 42%;
+    }
+
+    .paper-box .paper-box-text {
+        max-width: 58%;
+        padding-left: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .paper-box {
+        gap: 1.2rem;
+        padding: 1.8rem 0;
+    }
+
+    .paper-box-title {
+        margin-bottom: 0.8rem;
+        font-size: 1.28rem;
+        line-height: 1.45;
+    }
+
+    .paper-box-authors {
+        font-size: 0.96rem;
+        line-height: 1.62;
+    }
+
+    .paper-box-venue-chip {
+        font-size: 0.9rem;
+    }
+
+    .paper-box-summary,
+    .paper-box-links {
+        font-size: 0.94rem;
+    }
 }
