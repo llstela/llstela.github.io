@@ -9,7 +9,7 @@
 
 <div class="paper-box-authors">{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 
-<div class="paper-box-venue"><span class="paper-box-venue-chip">{{ paper.venue }}</span></div>
+<div class="paper-box-venue"><span class="paper-box-venue-chip">{{ paper.venue }}</span>{% if paper.highlights %}{% for h in paper.highlights %} <span class="paper-box-venue-highlight">{{ h }}</span>{% endfor %}{% endif %}</div>
 
 <div class="paper-box-summary">{{ paper.summary }}</div>
 

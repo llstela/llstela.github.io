@@ -8,7 +8,7 @@
       image_width: "100%"
       authors: "**Xuhan Sheng**\\*, Runyi Li\\*, Bin Chen, Weiqi Li, Xu Jiang, Jian Zhang\\#"
       venue: "Under Review"
-      summary: "A one-step diffusion framework for real-world omnidirectional image super-resolution. By unfolding the restoration process in the latent space and incorporating lightweight domain-alignment and degradation-aware modules, RealOSR achieves high-fidelity 360° reconstruction with substantially reduced inference cost."
+      summary: "One-step diffusion for real-world 360° super-resolution via latent-space unfolding with domain-alignment and degradation-aware modules."
       links:
         - label: "Paper"
           url: "https://arxiv.org/abs/2412.09646"
@@ -19,8 +19,10 @@
       image_alt: "OmniSSR overview"
       image_width: "100%"
       authors: "Runyi Li\\*, **Xuhan Sheng**\\*, Weiqi Li, Jian Zhang\\#"
-      venue: "ECCV 2024, <font color=Red>Oral Presentation</font>"
-      summary: "The first zero-shot omnidirectional image super-resolution approach built upon Stable Diffusion priors. Tangent-plane information interaction and gradient-based decomposition are introduced to faithfully restore panoramic details without any task-specific training."
+      venue: "ECCV 2024"
+      highlights:
+        - "Oral Presentation"
+      summary: "First zero-shot 360° super-resolution leveraging Stable Diffusion priors via tangent-plane interaction and gradient-based decomposition, no training needed."
       links:
         - label: "Paper"
           url: "https://eccv.ecva.net/virtual/2024/poster/1971"
@@ -35,8 +37,10 @@
       image_alt: "NTIRE overview"
       image_width: "80%"
       authors: "Xiaopeng Sun\\*, Weiqi Li\\*, Zhenyu Zhang, Qiufang Ma, **Xuhan Sheng**, et al."
-      venue: "CVPR Workshops 2023, <font color=Red>NTIRE 2023 360° Panoramic Image SR Challenge — Champion</font>"
-      summary: "A position-aware deformable network tailored for the geometric distortions of equirectangular projection. The proposed solution won the championship of the NTIRE 2023 Challenge on 360° panoramic image super-resolution."
+      venue: "CVPR Workshops 2023"
+      highlights:
+        - "NTIRE 2023 360° Panoramic SR Challenge — Champion"
+      summary: "Position-aware deformable network tackling ERP geometric distortions; champion of the NTIRE 2023 360° panoramic SR challenge."
       links:
         - label: "Paper"
           url: "https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html"
@@ -47,8 +51,10 @@
       image_alt: "Re-Face overview"
       image_width: "100%"
       authors: "Guanhua Zhao\\*, Yu Gu\\*, **Xuhan Sheng**, Yujie Hu, Jian Zhang\\#"
-      venue: "ICME 2025, <font color=Red>Oral Presentation</font>"
-      summary: "A label-guided diffusion framework that reverses common facial retouching operations — including skin smoothing, eye enlargement, and face slimming — to recover authentic portraits while preserving identity."
+      venue: "ICME 2025"
+      highlights:
+        - "Oral Presentation"
+      summary: "Label-guided diffusion that reverses skin smoothing, eye enlargement and face slimming, recovering authentic portraits with identity preserved."
       links:
         - label: "Paper"
           url: "https://arxiv.org/abs/2404.14177"
@@ -60,7 +66,7 @@
       image_width: "100%"
       authors: "Weiqi Li, Shijie Zhao, Chong Mou, **Xuhan Sheng**, et al."
       venue: "IJCV 2025"
-      summary: "The first diffusion-based framework that brings precise drag-style motion control to omnidirectional image-to-video generation, enabling controllable camera and object trajectories on the spherical domain."
+      summary: "First diffusion framework bringing precise drag-style motion control to omnidirectional image-to-video generation on the spherical domain."
       links:
         - label: "Paper"
           url: "https://link.springer.com/article/10.1007/s11263-025-02629-7"
@@ -74,7 +80,7 @@
       image_width: "100%"
       authors: "Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al."
       venue: "PRCV 2025"
-      summary: "A hierarchical point-to-boundary framework for point-supervised temporal action localization. Sparse point annotations are progressively converted into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement, enabling accurate single-stage inference."
+      summary: "Hierarchical point-to-boundary framework converting sparse point labels into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement."
       links:
         - label: "Paper"
           url: "https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21"
