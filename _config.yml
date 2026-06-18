@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuhan SHENG"
-description              : "Research interests: Low-level Vision, Diffusion Models, Vision-Language Models, and Efficient Vision Encoders."
+description              : "Research interests: World Models."
 repository               : "llstela/llstela.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuhan SHENG"
   avatar           : "images/profile.png"
-  bio              : "Incoming Ph.D. student at Institute of Science Tokyo."
+  bio              : "Incoming Ph.D. student at Institute of Science Tokyo (formerly Tokyo Institute of Technology)."
   location         : |
     Tokyo, Japan
     Shenzhen, China
