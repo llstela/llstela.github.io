@@ -28,25 +28,6 @@ My current research interests are in world models and MLLM.
 
 I am always open to academic and industry collaborations. Feel free to reach out, and here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
-<div class="profile-highlights">
-  <div class="profile-highlights__item">
-    <p class="profile-highlights__label">Research Focus</p>
-    <p class="profile-highlights__value">World Models and MLLM</p>
-  </div>
-  <div class="profile-highlights__item">
-    <p class="profile-highlights__label">Current Affiliation</p>
-    <p class="profile-highlights__value">Institute of Science Tokyo</p>
-  </div>
-  <div class="profile-highlights__item">
-    <p class="profile-highlights__label">Selected Highlight</p>
-    <p class="profile-highlights__value">ECCV 2024 Oral, Tencent IEG, OPPO Research</p>
-  </div>
-  <div class="profile-highlights__item">
-    <p class="profile-highlights__label">Collaboration</p>
-    <p class="profile-highlights__value">Open to academia and industry</p>
-  </div>
-</div>
-
 
 <span class='anchor' id='news'></span>
 # 🔥 News
