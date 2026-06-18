@@ -23,7 +23,7 @@ redirect_from:
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
 
-Hi, I'm Xuhan, an incoming Ph.D. student in Computer Science at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University (PKU)](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
+Hi, I'm Xuhan, an incoming Ph.D. student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University (PKU)](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
 
 My current research interests are in world models and MLLM.
 
