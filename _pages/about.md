@@ -32,7 +32,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.10*: 🚀 I will begin my Ph.D. at the Institute of Science Tokyo.
+- *2026.10*: 🚀 I will begin my Ph.D. studies at the Institute of Science Tokyo.
 - *2026.03*: 🎮 I joined Tencent IEG, Game AI Engine Department, as an intern working on AI image restoration and super-resolution for game content enhancement.
 - *2025.09*: 🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
 - *2025.08*: 🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
@@ -269,4 +269,3 @@ I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Mik
         <figcaption>Yamaha YFL-411</figcaption>
     </figure>
 </div>
-
