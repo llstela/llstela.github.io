@@ -40,7 +40,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 - *2023.06*: 🏆 **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
 
 <span class='anchor' id='experience'></span>
-# 💼 Experience
+# 💼 Industry Experience
 
 <div class="experience-box">
     <div class="experience-box-logo">
