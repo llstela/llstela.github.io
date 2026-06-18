@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="collaboration-banner">
   <p class="collaboration-banner__eyebrow">Open for Collaboration</p>
-  <p class="collaboration-banner__title">At the Institute of Science Tokyo, I have personal access to a 128-GPU NVIDIA H100 cluster for fully open-ended research, without being tied to any specific project constraints.</p>
+  <p class="collaboration-banner__title">At the Institute of Science Tokyo, I am able to independently use a 128-GPU NVIDIA H100 cluster for open-ended research, without being tied to specific project constraints.</p>
   <p class="collaboration-banner__body">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
 
