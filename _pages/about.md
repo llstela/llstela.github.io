@@ -23,13 +23,11 @@ redirect_from:
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
 
-Hi, I'm Xuhan, an incoming Ph.D. student in Computer Science at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/), where I will be advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I was fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
+Hi, I'm Xuhan, an incoming Ph.D. student in Computer Science at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
 
-Previously, I earned my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), under the supervision of Prof. [Xu JIA](https://stephenjia.github.io/). My research interests include low-level vision, diffusion-based image restoration, vision-language models for image enhancement, and efficient vision encoders for visual agents.
+My current research interest is in world models.
 
-I am always open to academic and industry collaborations. Feel free to reach out for research discussions or potential partnerships!
-
-Here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
+I am always open to academic and industry collaborations. Feel free to reach out, and here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
 
 <span class='anchor' id='news'></span>
