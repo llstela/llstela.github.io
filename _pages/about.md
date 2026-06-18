@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -16,6 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 
 <div class="collaboration-banner">
   <div class="collaboration-banner__badge">Open for Collaboration</div>
@@ -26,8 +26,7 @@ Hi, I'm Xuhan, an incoming Ph.D. student at the [Institute of Science Tokyo](htt
 
 My current research interests are in world models and MLLM.
 
-I am always open to academic and industry collaborations. Feel free to reach out, and here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
-
+I am always open to academic and industry collaborations. Feel free to reach out.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -39,7 +38,6 @@ I am always open to academic and industry collaborations. Feel free to reach out
 - *2025.05*: 🎯 I joined OPPO Research Institute as an Imaging Algorithm Engineer Intern in the AI Talent Program.
 - *2024.09*: 🎉 **First-author**: 1 paper ("OmniSSR") accepted in ECCV 2024 for <font color=Red>oral presentation</font>.
 - *2023.06*: 🏆 **Collaboration**: 1 work won the "NTIRE 2023 Challenge on 360deg Omnidirectional Image Super-Resolution track" championship.
-
 
 <span class='anchor' id='experience'></span>
 # 💼 Experience
@@ -70,7 +68,6 @@ I am always open to academic and industry collaborations. Feel free to reach out
     </div>
 </div>
 
-
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 
@@ -78,7 +75,6 @@ I am always open to academic and industry collaborations. Feel free to reach out
 - MLLM systems for perception, reasoning, and grounded interaction.
 - Efficient vision encoders with dynamic visual token compression and pruning for real-time visual agents.
 - Diffusion-based restoration and generation for panoramic and omnidirectional visual content.
-
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
@@ -128,7 +124,6 @@ I am always open to academic and industry collaborations. Feel free to reach out
     </div>
 </div>
 
-
 <span class='anchor' id='awards'></span>
 # 🏅 Honors and Awards
 
@@ -137,7 +132,6 @@ I am always open to academic and industry collaborations. Feel free to reach out
 - *2022*, Dalian University of Technology First-class Academic Excellence Scholarship.
 - *2021*, Dalian University of Technology Second-class Academic Excellence Scholarship.
 - *2020*, Dalian University of Technology First-class Academic Excellence Scholarship.
-
 
 <span class='anchor' id='hobbies'></span>
 # 😊 Hobbies
@@ -172,4 +166,3 @@ I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Mik
         <figcaption>Yamaha YFL-411</figcaption>
     </figure>
 </div>
-
