@@ -77,7 +77,9 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='publications'></span>
 # 📑 Publications
 
-(*: indicates equal contribution; #: indicates corresponding author)
+My publications focus on **diffusion-based generation and restoration of images and videos**, with a particular emphasis on **omnidirectional (360°) visual content**, as well as **video understanding**. Selected works are listed below; please refer to my [Google Scholar](https://scholar.google.com/citations?user=7Sfji6YAAAAJ) for the full list.
+
+<p style="margin: 0.2rem 0 0.8rem; font-size: 0.9rem; opacity: 0.8;"><em>*: equal contribution &nbsp;·&nbsp; #: corresponding author</em></p>
 
 {% include publication-list.html %}
 
