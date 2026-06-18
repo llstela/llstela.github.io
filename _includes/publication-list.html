@@ -2,20 +2,20 @@
 ## {{ group.category }}
 
 {% for paper in group.entries %}
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ paper.badge }}</div><img src='{{ paper.image }}' alt="{{ paper.image_alt }}" width="{{ paper.image_width }}"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class="paper-box-title">[**{{ paper.title }}**]({{ paper.link }})</span>
-
-<div class="paper-box-authors">{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
-
-<div class="paper-box-venue"><span class="paper-box-venue-chip">{{ paper.venue }}</span>{% if paper.highlights %}{% for h in paper.highlights %} <span class="paper-box-venue-highlight">{{ h }}</span>{% endfor %}{% endif %}</div>
-
-<div class="paper-box-summary">{{ paper.summary }}</div>
-
-<div class="paper-box-links">{% for item in paper.links %}<a href="{{ item.url }}"><strong>{{ item.label }}</strong></a>{% unless forloop.last %} <span class="paper-box-link-sep">|</span> {% endunless %}{% endfor %}</div>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">{{ paper.badge }}</div>
+      <img src="{{ paper.image }}" alt="{{ paper.image_alt }}" width="{{ paper.image_width }}">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <span class="paper-box-title"><a href="{{ paper.link }}"><strong>{{ paper.title }}</strong></a></span>
+    <div class="paper-box-authors">{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+    <div class="paper-box-venue"><span class="paper-box-venue-chip">{{ paper.venue }}</span>{% if paper.highlights %}{% for h in paper.highlights %} <span class="paper-box-venue-highlight">{{ h }}</span>{% endfor %}{% endif %}</div>
+    <div class="paper-box-summary">{{ paper.summary }}</div>
+    <div class="paper-box-links">{% for item in paper.links %}<a href="{{ item.url }}"><strong>{{ item.label }}</strong></a>{% unless forloop.last %} <span class="paper-box-link-sep">|</span> {% endunless %}{% endfor %}</div>
+  </div>
 </div>
 {% endfor %}
 {% endfor %}
