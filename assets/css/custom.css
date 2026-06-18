@@ -45,9 +45,7 @@
     padding: 1.2rem 1.2rem 1.05rem;
     border: 1px solid rgba(201, 74, 43, 0.2);
     border-radius: 16px;
-    background:
-        radial-gradient(circle at top right, rgba(255, 205, 178, 0.7), transparent 36%),
-        linear-gradient(135deg, #fffaf5 0%, #ffe8da 100%);
+    background: #fff4ec;
     box-shadow: 0 16px 36px rgba(160, 67, 41, 0.12);
     overflow: hidden;
 }
@@ -65,13 +63,13 @@
 .collaboration-banner__badge {
     display: inline-block;
     margin: 0 0 0.7rem;
-    padding: 0.22rem 0.65rem;
+    padding: 0.28rem 0.8rem;
     border-radius: 999px;
     background: rgba(169, 46, 37, 0.1);
     color: #8c251b;
-    font-size: 0.76rem;
+    font-size: 0.96rem;
     font-weight: 800;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
 }
 
@@ -82,9 +80,14 @@
 }
 
 .collaboration-banner__lead {
-    font-size: 1.12rem;
+    font-size: 1.14rem;
     font-weight: 800;
     line-height: 1.55;
+}
+
+.collaboration-banner__highlight {
+    color: #8f2117;
+    font-weight: 900;
 }
 
 .collaboration-banner__text {
@@ -113,5 +116,9 @@
     .collaboration-banner__text {
         font-size: 0.94rem;
         line-height: 1.65;
+    }
+
+    .collaboration-banner__badge {
+        font-size: 0.88rem;
     }
 }
