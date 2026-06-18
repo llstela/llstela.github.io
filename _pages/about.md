@@ -29,6 +29,25 @@ My current research interests are in world models and MLLM.
 
 I am always open to academic and industry collaborations. Feel free to reach out, and here is my latest [CV](/docs/Xuhan_SHENG_Resume_EN_26.06.01.pdf).
 
+<div class="profile-highlights">
+  <div class="profile-highlights__item">
+    <p class="profile-highlights__label">Research Focus</p>
+    <p class="profile-highlights__value">World Models and MLLM</p>
+  </div>
+  <div class="profile-highlights__item">
+    <p class="profile-highlights__label">Current Affiliation</p>
+    <p class="profile-highlights__value">Institute of Science Tokyo</p>
+  </div>
+  <div class="profile-highlights__item">
+    <p class="profile-highlights__label">Selected Highlight</p>
+    <p class="profile-highlights__value">ECCV 2024 Oral, Tencent IEG, OPPO Research</p>
+  </div>
+  <div class="profile-highlights__item">
+    <p class="profile-highlights__label">Collaboration</p>
+    <p class="profile-highlights__value">Open to academia and industry</p>
+  </div>
+</div>
+
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -75,16 +94,18 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 
-- Efficient vision encoders with dynamic visual token compression and pruning for real-time VLA models.
-- Dual VLA systems that combine high-level reasoning models and low-level execution models for long-horizon tasks and cross-embodiment.
-- Diffusion-based super-resolution and restoration for panoramic and omnidirectional images.
-- Vision-language models for artifact localization and AI-based image enhancement.
+- World models for long-horizon prediction, planning, and multimodal decision-making.
+- MLLM systems for perception, reasoning, and grounded interaction.
+- Efficient vision encoders with dynamic visual token compression and pruning for real-time visual agents.
+- Diffusion-based restoration and generation for panoramic and omnidirectional visual content.
 
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
 
 (*: indicates equal contribution; #: indicates corresponding author)
+
+## Omnidirectional Vision and Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/RealOSR.jpg' alt="RealOSR overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,22 +119,6 @@ Under Review
 - A one-step diffusion-based omnidirectional image super-resolution method guided by latent space unfolding, with lightweight domain alignment and degradation-aware modules for real-world restoration.
 
 [**Paper**](https://arxiv.org/abs/2412.09646)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
-
-Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
-
-PRCV 2025
-
-- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
-
-[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
 </div>
 </div>
@@ -133,6 +138,8 @@ IJCV 2025
 
 </div>
 </div>
+
+## Image Restoration and Enhancement
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Oral</div><img src='/images/Re-Face.jpg' alt="Re-Face overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -178,6 +185,24 @@ CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
 - The champion solution for the NTIRE 2023 Challenge on 360-degree panoramic image super-resolution.
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
+
+</div>
+</div>
+
+## Video Understanding
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
+
+Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
+
+PRCV 2025
+
+- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
+
+[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
 
 </div>
 </div>
