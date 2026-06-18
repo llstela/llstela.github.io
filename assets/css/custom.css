@@ -95,6 +95,16 @@
     color: #5c2a22;
 }
 
+/* ===== Sidebar author name (English + Chinese on two lines) ===== */
+.author__name-cn {
+    display: block;
+    margin-top: 0.15em;
+    font-size: 0.82em;
+    font-weight: 600;
+    color: #6b7280;
+    letter-spacing: 0.02em;
+}
+
 /* ===== Section headings (h1) — bigger and clearer separation ===== */
 .page__content h1 {
     margin-top: 2.2em;
