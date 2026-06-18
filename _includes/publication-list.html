@@ -1,0 +1,21 @@
+{% for group in site.data.publications %}
+## {{ group.category }}
+
+{% for paper in group.entries %}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ paper.badge }}</div><img src='{{ paper.image }}' alt="{{ paper.image_alt }}" width="{{ paper.image_width }}"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**{{ paper.title }}**]({{ paper.link }})
+
+{{ paper.authors }}
+
+{{ paper.venue }}
+
+- {{ paper.summary }}
+
+{% for item in paper.links %}[**{{ item.label }}**]({{ item.url }}){% unless forloop.last %} **\|** {% endunless %}{% endfor %}
+
+</div>
+</div>
+{% endfor %}
+{% endfor %}

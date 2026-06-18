@@ -22,7 +22,6 @@ redirect_from:
   <p class="collaboration-banner__lead">At the Institute of Science Tokyo, access to up to <span class="collaboration-banner__highlight">128 NVIDIA H100 GPUs</span> is available for my independent open-ended research.</p>
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
-
 Hi, I'm Xuhan, an incoming Ph.D. student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/) (formerly Tokyo Institute of Technology), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University (PKU)](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
 
 My current research interests are in world models and MLLM.
@@ -105,108 +104,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 
 (*: indicates equal contribution; #: indicates corresponding author)
 
-## Omnidirectional Vision and Generation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/RealOSR.jpg' alt="RealOSR overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**RealOSR: Latent Unfolding Boosts Diffusion-based Real-world Omnidirectional Image Super-Resolution**](https://arxiv.org/abs/2412.09646)
-
-**Xuhan Sheng**\*, Runyi Li\*, Bin Chen, Weiqi Li, Xu Jiang, Jian Zhang\#
-
-Under Review
-
-- A one-step diffusion-based omnidirectional image super-resolution method guided by latent space unfolding, with lightweight domain alignment and degradation-aware modules for real-world restoration.
-
-[**Paper**](https://arxiv.org/abs/2412.09646)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='/images/omnidrag_teaser.png' alt='OmniDrag teaser' width='100%'></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**](https://link.springer.com/article/10.1007/s11263-025-02629-7)
-
-Weiqi Li, Shijie Zhao, Chong Mou, **Xuhan Sheng**, et al.
-
-IJCV 2025
-
-- First diffusion-based framework enabling precise drag-style motion control for omnidirectional image-to-video generation.
-
-[**Paper**](https://link.springer.com/article/10.1007/s11263-025-02629-7)
-
-</div>
-</div>
-
-## Image Restoration and Enhancement
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Oral</div><img src='/images/Re-Face.jpg' alt="Re-Face overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Label-guided Facial Retouching Reversion**](https://arxiv.org/abs/2404.14177)
-
-Guanhua Zhao\*, Yu Gu\*, **Xuhan Sheng**, Yujie Hu, Jian Zhang\#
-
-ICME 2025, <font color=Red>Oral Presentation</font>
-
-- A diffusion-based method for reversing facial retouching effects such as skin smoothing, eye enlargement, and face slimming.
-
-[**Paper**](https://arxiv.org/abs/2404.14177)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='/images/OmniSSR.jpg' alt="OmniSSR overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**](https://eccv.ecva.net/virtual/2024/poster/1971)
-
-Runyi Li\*, **Xuhan Sheng**\*, Weiqi Li, Jian Zhang\#
-
-ECCV 2024, <font color=Red>Oral Presentation</font>
-
-- The first zero-shot omnidirectional image super-resolution method leveraging Stable Diffusion priors, integrating tangent information interaction and gradient decomposition without training.
-
-[**Paper**](https://eccv.ecva.net/virtual/2024/poster/1971) **\|** [**Project Page**](https://lirunyi2001.github.io/projects/omnissr/) **\|** [**GitHub**](https://github.com/LiRunyi2001/OmniSSR)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='/images/ntire.jpg' alt="NTIRE overview" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**OPDN: Omnidirectional Position-Aware Deformable Network for Omnidirectional Image Super-Resolution**](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
-
-Xiaopeng Sun\*, Weiqi Li\*, Zhenyu Zhang, Qiufang Ma, **Xuhan Sheng**, et al.
-
-CVPR Workshops 2023, NTIRE 2023 360-degree Panoramic SR Challenge Champion
-
-- The champion solution for the NTIRE 2023 Challenge on 360-degree panoramic image super-resolution.
-
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html)
-
-</div>
-</div>
-
-## Video Understanding
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='/images/PBHL_pipeline.png' alt='PBHL pipeline' width='100%'></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
-
-Junshi Yang, Shenglan Liu, **Xuhan Sheng**, et al.
-
-PRCV 2025
-
-- A hierarchical framework that converts sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.
-
-[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_21)
-
-</div>
-</div>
-
+{% include publication-list.html %}
 
 <span class='anchor' id='educations'></span>
 # 🎓 Educations
@@ -223,7 +121,6 @@ PRCV 2025
         <p>Advisor: Prof. <a href="https://www.rio.gsic.titech.ac.jp/">Rio Yokota</a></p>
     </div>
 </div>
-
 <div class="experience-box">
     <div class="experience-box-logo">
         <div class="experience-logo-card">
@@ -294,3 +191,4 @@ I love playing flutes (Irish flute, Boehm flute, Shakuhachi). I love Hatsune Mik
         <figcaption>Yamaha YFL-411</figcaption>
     </figure>
 </div>
+
