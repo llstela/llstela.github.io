@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="collaboration-banner">
   <div class="collaboration-banner__badge">Open for Collaboration</div>
-  <p class="collaboration-banner__lead">The Institute of Science Tokyo can provide up to 128-256 NVIDIA H100 GPUs to a student for independent open-ended research.</p>
+  <p class="collaboration-banner__lead">At the Institute of Science Tokyo, access to up to 128-256 NVIDIA H100 GPUs is available for my independent open-ended research.</p>
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
 
