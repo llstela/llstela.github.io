@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="collaboration-banner">
-  <p class="collaboration-banner__eyebrow">Open for Collaboration</p>
-  <p class="collaboration-banner__title">At the Institute of Science Tokyo, I am able to independently use a 128-GPU NVIDIA H100 cluster for open-ended research, without being tied to specific project constraints.</p>
-  <p class="collaboration-banner__body">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
+<div class="notice--info">
+  <p><strong>Open for Collaboration</strong></p>
+  <p>At the Institute of Science Tokyo, I am able to independently use a 128-GPU NVIDIA H100 cluster for open-ended research, without being tied to specific project constraints.</p>
+  <p>I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
 
 Hi, I'm Xuhan, an incoming Ph.D. student in Computer Science at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/), where I will be advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I was fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
