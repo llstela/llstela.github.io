@@ -38,3 +38,47 @@
     margin-top: 6px;
     font-size: 0.9rem;
 }
+
+.collaboration-banner {
+    margin: 1.5rem 0 2rem;
+    padding: 1.25rem 1.4rem;
+    border-left: 6px solid #c23b22;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #fff7f0 0%, #ffe4d6 100%);
+    box-shadow: 0 14px 32px rgba(194, 59, 34, 0.12);
+}
+
+.collaboration-banner__eyebrow {
+    margin: 0 0 0.45rem;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8f2d1e;
+}
+
+.collaboration-banner__title {
+    margin: 0;
+    font-size: 1.22rem;
+    font-weight: 800;
+    line-height: 1.45;
+    color: #34120d;
+}
+
+.collaboration-banner__body {
+    margin: 0.85rem 0 0;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #5a241b;
+}
+
+@media (max-width: 768px) {
+    .collaboration-banner {
+        padding: 1rem 1.05rem;
+        border-left-width: 5px;
+    }
+
+    .collaboration-banner__title {
+        font-size: 1.08rem;
+    }
+}
