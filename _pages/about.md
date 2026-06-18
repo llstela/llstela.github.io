@@ -19,8 +19,8 @@ redirect_from:
 
 <div class="collaboration-banner">
   <div class="collaboration-banner__badge">Open for Collaboration</div>
-  <p class="collaboration-banner__lead">At the Institute of Science Tokyo, I am able to independently use 128 NVIDIA H100 GPU for open-ended research.</p>
-  <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If you're interested, please feel free to reach out.</p>
+  <p class="collaboration-banner__lead">The Institute of Science Tokyo can provide up to 128~256 NVIDIA H100 GPU to a student for personally open-ended research.</p>
+  <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
 
 Hi, I'm Xuhan, an incoming Ph.D. student in Computer Science at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/), where I will be advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from the [Visual-Information Intelligent Learning LAB](https://villa.jianzhang.tech/) at [Peking University (PKU)](https://www.pku.edu.cn/), where I was fortunate to be advised by Prof. [Jian ZHANG](https://jianzhang.tech/).
