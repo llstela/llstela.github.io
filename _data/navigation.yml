@@ -21,8 +21,5 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Resume"
-    url: "/resume/"
-
   - title: "Hobbies"
     url: "/#hobbies"
