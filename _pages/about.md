@@ -77,8 +77,6 @@ I am always open to academic and industry collaborations. Feel free to reach out
 - **World Models for Interactive Long Video Generation**: Focusing on post-training and distillation acceleration for interactive and controllable video synthesis.
 - **3D / Spatial Memory for World Models**: Investigating explicit 3D representation-based spatial memory mechanisms that provide world models with updatable, retrievable scene-level memory, maintaining spatial consistency of object appearance, scene layout, camera motion, and occlusion during long-horizon generation and interaction.
 - **World Models for Visual Reasoning**: Exploring the use of world models for modeling physical laws, spatial relations, and causal dynamics, enabling visual systems to generate plausible scene evolutions and support reasoning over future states, latent relations, and complex interaction processes.
-- **Diffusion-based Super-Resolution for Panoramic Images**: Leveraging diffusion priors to restore ultra-high-resolution (4K×8K) omnidirectional images under real-world degradations for VR/AR applications.
-- **Vision-Language Models for AI-based Image Enhancement**: Training VLMs to localize and annotate perceptual artifacts in AI-generated images, guiding more accurate super-resolution and enhancement.
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
