@@ -50,7 +50,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
     </div>
     <div class="experience-box-text">
         <p class="experience-title"><strong>Tencent, IEG</strong>, Game AI Engine Department</p>
-        <p class="experience-meta"><strong>2026.03 - Present</strong> · Intern</p>
+        <p class="experience-meta"><strong>2026.03 - 2026.06</strong> · Intern</p>
         <ul class="experience-bullets">
             <li><strong>Qwen-Image-based image enhancement</strong> for game content and production-level visual assets.</li>
             <li>Building <strong>data-pipeline operators for video generative models</strong>; developed a <strong>streaming shot-segmentation operator</strong> that splits long videos into single-shot clips.</li>

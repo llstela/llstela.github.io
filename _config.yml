@@ -24,9 +24,9 @@ author:
   name             : "Xuhan SHENG"
   avatar           : "images/profile/slai_phd_summer_camp.jpg"
   bio              : "Incoming Ph.D. student at Institute of Science Tokyo (formerly Tokyo Institute of Technology)."
-  location         : |
-    Tokyo, Japan
-    Shenzhen, China
+  location:
+    - "Tokyo, Japan"
+    - "Shenzhen, China"
   employer         : "Institute of Science Tokyo"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7Sfji6YAAAAJ"
