@@ -20,7 +20,7 @@ redirect_from:
 <div class="collaboration-banner">
   <div class="collaboration-banner__header">
     <div class="collaboration-banner__badge">Open for Collaboration</div>
-    <a class="collaboration-banner__details" target="_self" href="{{ '/compute/' | relative_url }}">Compute resource details <span aria-hidden="true">&rarr;</span></a>
+    <a class="collaboration-banner__details" target="_self" href="{{ '/compute/' | relative_url }}" aria-label="More details about compute resources">More details <span aria-hidden="true">&rarr;</span></a>
   </div>
   <p class="collaboration-banner__lead">The Institute of Science Tokyo provides access to up to <span class="collaboration-banner__highlight">128 NVIDIA H100 GPUs</span> through TSUBAME4.0, with compute credits allocated by our lab for open-ended research and collaboration.</p>
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
