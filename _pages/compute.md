@@ -12,7 +12,7 @@ author_profile: true
 The **Institute of Science Tokyo provides the computing infrastructure through TSUBAME4.0**, with access to up to **128 NVIDIA H100 GPUs**. **My lab allocates compute credits** to support open-ended research and collaborations.
 
 <div class="compute-summary">
-  <div class="compute-summary__item"><strong>128 H100s</strong><span>The lab’s compute allocation supports about 128 days of continuous use at standard priority. (Highest priority uses 4&times; the compute credits for the same GPU count and runtime.)</span></div>
+  <div class="compute-summary__item"><strong>128 H100s for 128 days with standard priority</strong><span>The lab’s compute allocation supports about 128 days of continuous use at standard priority. (Highest priority uses 4&times; the compute credits for the same GPU count and runtime.)</span></div>
   <div class="compute-summary__item"><strong>24 H100s · 24 hours a day</strong><span>At highest priority, the lab’s compute allocation supports continuous training on 24 H100 GPUs every day through March 31, 2027.</span></div>
 </div>
 
