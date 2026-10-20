@@ -18,10 +18,12 @@ redirect_from:
 
 
 <div class="collaboration-banner">
-  <div class="collaboration-banner__badge">Open for Collaboration</div>
+  <div class="collaboration-banner__header">
+    <div class="collaboration-banner__badge">Open for Collaboration</div>
+    <a class="collaboration-banner__details" target="_self" href="{{ '/compute/' | relative_url }}">Compute resource details <span aria-hidden="true">&rarr;</span></a>
+  </div>
   <p class="collaboration-banner__lead">The Institute of Science Tokyo provides access to up to <span class="collaboration-banner__highlight">128 NVIDIA H100 GPUs</span> through TSUBAME4.0, with compute credits allocated by our lab for open-ended research and collaboration.</p>
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
-  <a class="collaboration-banner__details" target="_self" href="{{ '/compute/' | relative_url }}">Compute resource details <span aria-hidden="true">&rarr;</span></a>
 </div>
 Hi, I'm Xuhan (盛 栩涵), an incoming Ph.D. student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/) (formerly Tokyo Institute of Technology), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
 

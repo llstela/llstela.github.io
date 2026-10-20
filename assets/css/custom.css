@@ -42,7 +42,7 @@
 .collaboration-banner {
     position: relative;
     margin: 1.4rem 0 2rem;
-    padding: 1.2rem 1.2rem 1.05rem;
+    padding: 1rem 1.2rem;
     border: 1px solid rgba(201, 74, 43, 0.2);
     border-radius: 16px;
     background: #fff4ec;
@@ -60,9 +60,18 @@
     background: linear-gradient(180deg, #d95d39 0%, #aa2e25 100%);
 }
 
+.collaboration-banner__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.45rem 1rem;
+    margin-bottom: 0.7rem;
+}
+
 .collaboration-banner__badge {
     display: inline-block;
-    margin: 0 0 0.7rem;
+    margin: 0;
     padding: 0.28rem 0.8rem;
     border-radius: 999px;
     background: rgba(169, 46, 37, 0.1);
@@ -95,21 +104,26 @@
     color: #5c2a22;
 }
 
-.collaboration-banner__details {
+.collaboration-banner .collaboration-banner__details {
     display: inline-flex;
     align-items: center;
-    gap: 0.6em;
-    margin-top: 1rem;
-    padding: 0.55rem 0.85rem;
-    border: 1px solid #8f2117;
-    border-radius: 8px;
+    gap: 0.35em;
+    padding: 0.3rem 0;
+    border: 0;
     color: #8f2117;
-    font-size: 0.9rem;
+    font-size: 0.86rem;
     font-weight: 700;
+    line-height: 1.4;
     text-decoration: none;
 }
 
-.collaboration-banner__details:hover,
+.collaboration-banner .collaboration-banner__details:hover,
+.collaboration-banner .collaboration-banner__details:focus-visible {
+    color: #5c1710;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+}
+
 .collaboration-banner__details:focus-visible {
     background: #8f2117;
     color: #fff;
