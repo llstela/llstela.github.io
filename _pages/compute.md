@@ -12,8 +12,7 @@ author_profile: true
 I have access to up to **128 NVIDIA H100 GPUs on TSUBAME4.0** at the Institute of Science Tokyo for independent, open-ended research and collaborations.
 
 <div class="compute-summary">
-  <div class="compute-summary__item"><strong>128 GPUs · ~128 days</strong><span>The current budget can fund 128 H100s running continuously for about 128 days at standard priority.</span></div>
-  <div class="compute-summary__item"><strong>Highest priority · 4&times; cost</strong><span>Higher scheduling priority uses four times the compute credits for the same number of GPUs and runtime.</span></div>
+  <div class="compute-summary__item"><strong>128 H100s</strong><span>The current budget supports about 128 days of continuous use at standard priority. (Highest priority uses 4&times; the compute credits for the same GPU count and runtime.)</span></div>
   <div class="compute-summary__item"><strong>24 GPUs · continuous training</strong><span>At highest priority, the budget supports 24 H100s running 24/7 through March 31, 2027.</span></div>
 </div>
 
