@@ -24,4 +24,4 @@ These estimates describe our lab’s compute allocation as of **October 21, 2026
 
 [TSUBAME scheduling and priority details](https://www.t4.cii.isct.ac.jp/docs/all/handbook.en/jobs/)
 
-Interested in collaborating on world models or multimodal learning? Please get in touch using the contact links on my profile.
+If you are interested in collaborating, please get in touch using the contact links on my profile.
