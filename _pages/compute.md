@@ -14,8 +14,8 @@ The **Institute of Science Tokyo provides the computing infrastructure through T
 There are two ways to roughly estimate our lab’s compute allocation:
 
 <div class="compute-summary">
-  <div class="compute-summary__item"><strong>128 H100s for 128 days with standard priority</strong><span>Our lab’s compute allocation supports about 128 days of continuous use at standard priority. (Highest priority uses 4&times; the compute credits for the same GPU count and runtime.)</span></div>
-  <div class="compute-summary__item"><strong>24 H100s for every day with highest priority</strong><span>At highest priority, our lab’s compute allocation supports continuous training on 24 H100 GPUs every day through March 31, 2027.</span></div>
+  <div class="compute-summary__item"><strong>128 &times; H100s for 128 days (standard priority)</strong><span>Our lab’s compute allocation supports about 128 days of continuous use at standard priority. (Highest priority uses 4&times; the compute credits for the same GPU count and runtime.)</span></div>
+  <div class="compute-summary__item"><strong>24 &times; H100s for every day (highest priority)</strong><span>At highest priority, our lab’s compute allocation supports continuous training on 24 H100 GPUs every day through March 31, 2027.</span></div>
 </div>
 
 These estimates describe our lab’s compute allocation as of **October 21, 2026**. GPUs are allocated through a shared queue, so availability and start times depend on scheduling. Larger runs use the budget faster; smaller runs can run longer.
