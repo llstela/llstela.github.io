@@ -95,6 +95,62 @@
     color: #5c2a22;
 }
 
+.collaboration-banner__details {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6em;
+    margin-top: 1rem;
+    padding: 0.55rem 0.85rem;
+    border: 1px solid #8f2117;
+    border-radius: 8px;
+    color: #8f2117;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.collaboration-banner__details:hover,
+.collaboration-banner__details:focus-visible {
+    background: #8f2117;
+    color: #fff;
+    text-decoration: none;
+}
+
+.collaboration-banner__details:focus-visible {
+    outline: 3px solid #d95d39;
+    outline-offset: 3px;
+}
+
+.compute-back { font-size: 0.9rem; }
+
+.compute-summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+}
+
+.compute-summary__item {
+    padding: 1.2rem;
+    border: 1px solid rgba(201, 74, 43, 0.2);
+    border-radius: 12px;
+    background: #fff4ec;
+}
+
+.compute-summary__item strong {
+    display: block;
+    margin-bottom: 0.6rem;
+    color: #8f2117;
+    font-size: 1.35rem;
+    line-height: 1.25;
+}
+
+.compute-summary__item span {
+    color: #5c2a22;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
 /* ===== Sidebar author name (English + Chinese on two lines) ===== */
 .author__name-cn {
     display: block;
