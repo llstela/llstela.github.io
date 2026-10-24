@@ -49,6 +49,11 @@ I am always open to academic and industry collaborations. Feel free to reach out
 # 💼 Industry Experience
 
 <div class="experience-box">
+    <div class="experience-box-logo">
+        <div class="experience-logo-card">
+            <img src="/images/logo/xiaomi_logo.webp" alt="Xiaomi Logo">
+        </div>
+    </div>
     <div class="experience-box-text">
         <p class="experience-title"><strong>Xiaomi Auto</strong>, Shanghai Team</p>
         <p class="experience-meta"><strong>2026.08 - Present</strong> · World Model Research Intern</p>
