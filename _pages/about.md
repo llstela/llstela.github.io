@@ -95,7 +95,8 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 
-I am exploring future research directions in **video generation**, **AI agents**, and **large language models**, building on my previous work in diffusion-based restoration and visual generation.
+- **Video Generation & World Models**: Controllable video synthesis, spatiotemporal consistency, and efficient training and inference.
+- **Large Language Models & AI Agents**: Multimodal understanding, reasoning, and planning.
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
