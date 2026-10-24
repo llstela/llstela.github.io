@@ -29,7 +29,7 @@ Hi, I'm Xuhan (盛 栩涵), a Ph.D. student in Artificial Intelligence in the De
 
 My research background includes diffusion models, memory-efficient training and inference, vision-language models, and video data pipelines. I am currently a **World Model Research Intern at Xiaomi Auto (Shanghai team)**, contributing to the forthcoming **Xiaomi Auto World Model 2.0**, with primary responsibility for **video super-resolution**. My previous research includes **OmniSSR (ECCV 2024 Oral, co-first author)** and panoramic image-to-video generation.
 
-I am exploring future research directions in **video generation, AI agents, and large language models**, and am seeking **long-term research internships** in these areas. I am available for on-site internships in China and Tokyo, Japan, and will also consider opportunities in the United States. Start date is flexible; working hours depend on local requirements and company policy. [Download my CV](/resume/).
+I am exploring future research directions in **video generation, AI agents, and large language models**, and am seeking **long-term research internships** in these areas. I am available for on-site internships in China and Tokyo, Japan, and will also consider opportunities in the United States. Start date is flexible; working hours depend on local requirements and company policy. [View my CV](/resume/).
 
 I am always open to academic and industry collaborations. Feel free to reach out.
 
