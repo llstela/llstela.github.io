@@ -1,14 +1,14 @@
 - category: "Diffusion Models for Image & Video Generation and Restoration"
   entries:
-    - title: "RealOSR: Latent Unfolding Boosts Diffusion-based Real-world Omnidirectional Image Super-Resolution"
+    - title: "RealOSR: Latent Guidance Boosts Diffusion-based Real-world Omnidirectional Image Super-Resolutions"
       link: "https://arxiv.org/abs/2412.09646"
-      badge: "Under Review"
+      badge: "Preprint"
       image: "/images/RealOSR.jpg"
       image_alt: "RealOSR overview"
       image_width: "100%"
       authors: "**Xuhan Sheng**\\*, Runyi Li\\*, Bin Chen, Weiqi Li, Xu Jiang, Jian Zhang\\#"
-      venue: "Under Review"
-      summary: "One-step diffusion for real-world 360° super-resolution via latent-space unfolding with domain-alignment and degradation-aware modules."
+      venue: "Preprint"
+      summary: "One-step diffusion for real-world 360° super-resolution with efficient latent-space condition guidance."
       links:
         - label: "Paper"
           url: "https://arxiv.org/abs/2412.09646"

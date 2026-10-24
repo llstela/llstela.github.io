@@ -25,15 +25,18 @@ redirect_from:
   <p class="collaboration-banner__lead">The Institute of Science Tokyo provides access to up to <span class="collaboration-banner__highlight">128 NVIDIA H100 GPUs</span> through TSUBAME4.0, with compute credits allocated by our lab for open-ended research and collaboration.</p>
   <p class="collaboration-banner__text">I am actively seeking close collaborations with both academia and industry. If this aligns with your interests, please feel free to reach out.</p>
 </div>
-Hi, I'm Xuhan (盛 栩涵), an incoming Ph.D. student at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/) (formerly Tokyo Institute of Technology), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
+Hi, I'm Xuhan (盛 栩涵), a Ph.D. student in Artificial Intelligence in the Department of Computer Science at the [Institute of Science Tokyo](https://www.isct.ac.jp/en/) (formerly Tokyo Institute of Technology), advised by Prof. [Rio Yokota](https://www.rio.gsic.titech.ac.jp/). I received my Master's degree from [Peking University](https://www.pku.edu.cn/), advised by Prof. [Jian ZHANG](https://jianzhang.tech/), and my Bachelor's degree in Artificial Intelligence from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xu JIA](https://stephenjia.github.io/).
 
-My current research interests are in world models and MLLM.
+My research background includes diffusion models, memory-efficient training and inference, vision-language models, and video data pipelines. I am currently a **World Model Research Intern at Xiaomi Auto (Shanghai team)**, contributing to the forthcoming **Xiaomi Auto World Model 2.0**, with primary responsibility for **video super-resolution**. My previous research includes **OmniSSR (ECCV 2024 Oral, co-first author)** and panoramic image-to-video generation.
+
+I am exploring future research directions in **video generation, AI agents, and large language models**, and am seeking **long-term research internships** in these areas. I am available for on-site internships in China and Tokyo, Japan, and will also consider opportunities in the United States. Start date is flexible; working hours depend on local requirements and company policy. [Download my CV](/resume/).
 
 I am always open to academic and industry collaborations. Feel free to reach out.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.10*: 🎓 I will begin my Ph.D. studies at the Institute of Science Tokyo.
+- *2026.10*: 🎓 Began my Ph.D. studies in Artificial Intelligence in the Department of Computer Science at the Institute of Science Tokyo, advised by Prof. Rio Yokota.
+- *2026.08*: 💼 Joined Xiaomi Auto as a World Model Research Intern, working on video super-resolution for the forthcoming **Xiaomi Auto World Model 2.0**.
 - *2026.03*: 💼 Started my internship at Tencent IEG (Game AI Engine Department).
 - *2025.09*: 🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
 - *2025.08*: 🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
@@ -46,6 +49,16 @@ I am always open to academic and industry collaborations. Feel free to reach out
 # 💼 Industry Experience
 
 <div class="experience-box">
+    <div class="experience-box-text">
+        <p class="experience-title"><strong>Xiaomi Auto</strong>, Shanghai Team</p>
+        <p class="experience-meta"><strong>2026.08 - Present</strong> · World Model Research Intern</p>
+        <ul class="experience-bullets">
+            <li>Contributing to <strong>Xiaomi Auto World Model 2.0</strong> (forthcoming), with primary responsibility for <strong>video super-resolution</strong>.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="experience-box">
     <div class="experience-box-logo">
         <div class="experience-logo-card">
             <img src="/images/logo/tencent_logo.png" alt="Tencent Logo">
@@ -56,7 +69,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
         <p class="experience-meta"><strong>2026.03 - 2026.06</strong> · Algorithm Intern</p>
         <ul class="experience-bullets">
             <li><strong>Qwen-Image-based image enhancement</strong> for game content and production-level visual assets.</li>
-            <li>Building <strong>data-pipeline operators for video generative models</strong>; developed a <strong>streaming shot-segmentation operator</strong> that splits long videos into single-shot clips.</li>
+            <li>Built <strong>data-pipeline operators for video generative models</strong>; developed a <strong>streaming shot-segmentation operator</strong> that splits long videos into single-shot clips.</li>
         </ul>
     </div>
 </div>
@@ -77,9 +90,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 
-- **World Models for Interactive Long Video Generation**: Focusing on post-training and distillation acceleration for interactive and controllable video synthesis.
-- **3D / Spatial Memory for World Models**: Investigating explicit 3D representation-based spatial memory mechanisms that provide world models with updatable, retrievable scene-level memory, maintaining spatial consistency of object appearance, scene layout, camera motion, and occlusion during long-horizon generation and interaction.
-- **World Models for Visual Reasoning**: Exploring the use of world models for modeling physical laws, spatial relations, and causal dynamics, enabling visual systems to generate plausible scene evolutions and support reasoning over future states, latent relations, and complex interaction processes.
+I am exploring future research directions in **video generation**, **AI agents**, and **large language models**, building on my previous work in diffusion-based restoration and visual generation.
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
@@ -99,7 +110,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
     </div>
     <div class="experience-box-text">
         <p class="experience-title"><strong><a href="https://www.isct.ac.jp/en/">Institute of Science Tokyo</a></strong>, Department of Computer Science</p>
-        <p class="experience-meta"><strong>2026.10 - Present</strong> · Incoming Ph.D. Student</p>
+        <p class="experience-meta"><strong>2026.10 - Present</strong> · Ph.D. Student in Artificial Intelligence (earliest graduation: Sept. 2029; option to graduate in Apr. 2030)</p>
         <p>Advisor: Prof. <a href="https://www.rio.gsic.titech.ac.jp/">Rio Yokota</a></p>
     </div>
 </div>
