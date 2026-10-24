@@ -95,8 +95,9 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 
-- **Video Generation & World Models**: Controllable video synthesis, spatiotemporal consistency, and efficient training and inference.
-- **Large Language Models & AI Agents**: Multimodal understanding, reasoning, and planning.
+- **Interactive Long-Video Generation**: Post-training and distillation for controllable video world models with long-horizon consistency.
+- **3D Spatial Memory for World Models**: Explicit, updatable scene memory to preserve object identity, scene geometry, and occlusion consistency across camera motion and interactions.
+- **World Models for Visual Reasoning**: Modeling physical and causal dynamics to predict future states and evaluate action outcomes.
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
