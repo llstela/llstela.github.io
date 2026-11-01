@@ -35,8 +35,8 @@ I am always open to academic and industry collaborations. Feel free to reach out
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.10*: 🎓 Began my Ph.D. studies in Artificial Intelligence in the Department of Computer Science at the Institute of Science Tokyo, advised by Prof. Rio Yokota.
-- *2026.08*: 💼 Joined Xiaomi Auto as a World Model Research Intern, working on video super-resolution for the forthcoming **Xiaomi Auto World Model 2.0**.
+- *2026.10*: 🎓 Started my Ph.D. in AI at Institute of Science Tokyo, advised by Prof. Rio Yokota.
+- *2026.08*: 💼 Joined Xiaomi Auto as a research intern, developing video super-resolution for **World Model 2.0**.
 - *2026.03*: 💼 Started my internship at Tencent IEG (Game AI Engine Department).
 - *2025.09*: 🎉 **Collaboration**: 1 paper accepted in PRCV 2025.
 - *2025.08*: 🎉 **Collaboration**: 1 paper accepted in IJCV 2025.
