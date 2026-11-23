@@ -122,7 +122,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
     </div>
     <div class="experience-box-text">
         <p class="experience-title"><strong><a href="https://www.isct.ac.jp/en/">Institute of Science Tokyo</a></strong>, Department of Computer Science</p>
-        <p class="experience-meta"><strong>2026.10 - Present</strong> · Ph.D. Student in Artificial Intelligence (earliest graduation: Sept. 2029; option to graduate in Apr. 2030)</p>
+        <p class="experience-meta"><strong>2026.10 - Present</strong> · Ph.D. Student</p>
         <p>Advisor: Prof. <a href="https://www.rio.gsic.titech.ac.jp/">Rio Yokota</a></p>
     </div>
 </div>
