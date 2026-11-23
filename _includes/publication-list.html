@@ -1,5 +1,8 @@
-{% for group in site.data.publications %}
+{% assign groups = include.data | default: site.data.publications %}
+{% for group in groups %}
+{% if group.category != "" %}
 ## {{ group.category }}
+{% endif %}
 
 {% for paper in group.entries %}
 <div class="paper-box">

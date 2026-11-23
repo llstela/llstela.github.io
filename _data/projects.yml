@@ -1,0 +1,16 @@
+- category: ""
+  entries:
+    - title: "Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence"
+      link: "https://arxiv.org/abs/2611.01677"
+      badge: "Tech Report"
+      image: "/images/xiaomi_causal_wm.jpg"
+      image_alt: "Xiaomi Auto World Model 2.0 pipeline"
+      image_width: "100%"
+      authors: "Zhenxin Zhu, Zhijian Huang, Cheng Chi, ..., **Xuhan Sheng**, ..., Bing Wang"
+      venue: "Xiaomi Auto · arXiv 2026"
+      summary: "Streaming causal multi-view world model for driving and embodied intelligence, supporting closed-loop simulation, closed-loop training and world action models. I contributed video super-resolution."
+      links:
+        - label: "Paper"
+          url: "https://arxiv.org/abs/2611.01677"
+        - label: "Project Page"
+          url: "https://xiaomiautoworldmodel.github.io/CausalWorldModel/"

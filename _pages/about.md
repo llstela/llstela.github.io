@@ -58,7 +58,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
         <p class="experience-title"><strong>Xiaomi Auto</strong>, Shanghai Team</p>
         <p class="experience-meta"><strong>2026.08 - Present</strong> · World Model Research Intern</p>
         <ul class="experience-bullets">
-            <li>Contributing to <strong>Xiaomi Auto World Model 2.0</strong> (forthcoming), with primary responsibility for <strong>video super-resolution</strong>.</li>
+            <li>Contributing to <a href="https://arxiv.org/abs/2611.01677"><strong>Xiaomi Auto World Model 2.0</strong></a>, with primary responsibility for <strong>video super-resolution</strong>.</li>
         </ul>
     </div>
 </div>
@@ -98,6 +98,11 @@ I am always open to academic and industry collaborations. Feel free to reach out
 - **Interactive Long-Video Generation**: Post-training and distillation for controllable video world models with long-horizon consistency.
 - **3D Spatial Memory for World Models**: Explicit, updatable scene memory to preserve object identity, scene geometry, and occlusion consistency across camera motion and interactions.
 - **World Models for Visual Reasoning**: Modeling physical and causal dynamics to predict future states and evaluate action outcomes.
+
+<span class='anchor' id='projects'></span>
+# 🚀 Projects
+
+{% include publication-list.html data=site.data.projects %}
 
 <span class='anchor' id='publications'></span>
 # 📑 Publications
