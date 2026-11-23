@@ -8,7 +8,7 @@
       image_width: "100%"
       authors: "Zhenxin Zhu, Zhijian Huang, Cheng Chi, ..., **Xuhan Sheng**, ..., Bing Wang"
       venue: "Xiaomi Auto · arXiv 2026"
-      summary: "Streaming causal multi-view world model for driving and embodied intelligence, supporting closed-loop simulation, closed-loop training and world action models. I contributed video super-resolution."
+      summary: "Streaming causal multi-view world model for driving and embodied intelligence, supporting closed-loop simulation, closed-loop training and world action models. I explored video super-resolution."
       links:
         - label: "Paper"
           url: "https://arxiv.org/abs/2611.01677"

@@ -144,7 +144,7 @@ author_profile: false
 
 <div class="resume-container" lang="en">
   <header>
-    <h1 class="resume-name">Xuhan Sheng</h1>
+    <h1 class="resume-name">Ezra(Xuhan) Sheng</h1>
     <div class="resume-contact" aria-label="Contact and profiles">
       <a href="mailto:llstela.sxh@gmail.com">llstela.sxh@gmail.com</a>
       <a href="https://llstela.github.io">llstela.github.io</a>
@@ -153,9 +153,9 @@ author_profile: false
     </div>
     <div class="resume-profile">
       <p class="resume-role">Ph.D. student in Artificial Intelligence, Institute of Science Tokyo.</p>
-      <p>Research background in diffusion models, memory-efficient training and inference, vision-language models, and video data pipelines. Co-first author of an ECCV 2024 Oral paper.</p>
-      <p><strong>Research interests:</strong> video generation, AI agents, and large language models.</p>
-      <p><strong>Seeking:</strong> Long-term research internships; available to start as soon as arrangements permit. Full-time availability subject to local work authorization and company policy.</p>
+      <p>Co-first author, ECCV 2024 Oral; experience in diffusion models, video super-resolution, and VLM post-training.</p>
+      <p><strong>Research interests:</strong> video generation, multimodal large language models, and AI agents.</p>
+      <p><strong>Seeking:</strong> Long-term research internships; flexible start date. Working hours subject to local work authorization and company policy.</p>
     </div>
     <nav class="resume-downloads" aria-label="Download resume versions">
       <a class="resume-primary-download" href="{{ '/files/Xuhan-Sheng-Resume-Overseas-EN.pdf' | relative_url }}">Download English CV · PDF</a>
@@ -169,7 +169,7 @@ author_profile: false
     <div class="resume-entry">
       <div class="resume-entry-header">
         <h3>Institute of Science Tokyo, Department of Computer Science</h3>
-        <span class="resume-date">Oct. 2026 – Present</span>
+        <span class="resume-date">Sept. 2026 – Present</span>
       </div>
       <p>Ph.D. student in Artificial Intelligence &nbsp;|&nbsp; Advisor: <a href="https://www.rio.gsic.titech.ac.jp/">Prof. Rio Yokota</a><br>
       Earliest graduation: Sept. 2029; option to graduate in Apr. 2030.</p>
@@ -191,14 +191,14 @@ author_profile: false
   </section>
 
   <section class="resume-section" aria-labelledby="cv-experience">
-    <h2 id="cv-experience">Research and Industry Experience</h2>
+    <h2 id="cv-experience">Project and Industry Experience</h2>
     <div class="resume-entry">
       <div class="resume-entry-header">
-        <h3>Xiaomi Auto, Shanghai Team — World Model Research Intern</h3>
+        <h3>Xiaomi Auto — World Model Research Intern</h3>
         <span class="resume-date">Aug. 2026 – Present</span>
       </div>
       <ul class="resume-bullets">
-        <li>Contributing to <strong>Xiaomi Auto World Model 2.0</strong> (forthcoming), with primary responsibility for <strong>video super-resolution</strong>.</li>
+        <li>Owned development of a 0.5B-parameter video super-resolution model, from network architecture design to training and inference implementation.</li>
       </ul>
     </div>
     <div class="resume-entry">
@@ -220,10 +220,11 @@ author_profile: false
         <li>Researched vision-language models for locating and annotating perceptual artifacts in AI-generated images to support image enhancement. AI Talent Program; advisor: Prof. Lei Zhang.</li>
       </ul>
     </div>
+    <p><strong>VLM Post-training (ongoing):</strong> Trained Qwen vision-language models with GRPO for image quality assessment.</p>
   </section>
 
   <section class="resume-section" aria-labelledby="cv-publications">
-    <h2 id="cv-publications">Research and Publications</h2>
+    <h2 id="cv-publications">Selected Research and Publications</h2>
     <p class="resume-note">* Equal contribution. <a href="{{ '/#publications' | relative_url }}">Full publication list</a>.</p>
     <article class="resume-paper">
       <h3><a href="https://eccv.ecva.net/virtual/2024/poster/1971">OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model</a></h3>
@@ -233,37 +234,22 @@ author_profile: false
     <article class="resume-paper">
       <h3>PanoForcing: Enforcing Memory-Scalable Full-Context for Blind Panoramic Super-Resolution</h3>
       <p class="resume-paper-meta"><strong>Xuhan Sheng</strong> (first author), et al. <strong>Under review, ICLR 2027.</strong></p>
-      <ul class="resume-bullets"><li>Led method design, implementation, core experiments, and manuscript writing. Combined selective autograd subgraph routing with Fourier pseudoinverse guidance for memory-scalable, full-context one-step panoramic super-resolution.</li></ul>
+      <ul class="resume-bullets"><li>Led design, implementation, and core experiments for one-step panoramic diffusion super-resolution. Preserved full panoramic context while controlling training memory via selective autograd recording and inference memory via face-level parallelism.</li><li>Designed Fourier pseudoinverse guidance to constrain reconstructed details using low-resolution observations within a single network pass.</li></ul>
     </article>
     <article class="resume-paper">
       <h3><a href="https://arxiv.org/abs/2412.09646">RealOSR: Latent Guidance Boosts Diffusion-based Real-world Omnidirectional Image Super-Resolutions</a></h3>
       <p class="resume-paper-meta"><strong>Xuhan Sheng</strong>*, Runyi Li*, Bin Chen, Weiqi Li, Xu Jiang, Jian Zhang. <strong>Preprint</strong>, arXiv:2412.09646.</p>
-      <ul class="resume-bullets"><li>Major contributor to implementation, experiments, and manuscript writing for one-step diffusion-based panoramic restoration with latent-space guidance.</li></ul>
+      <ul class="resume-bullets"><li>Major contributor to implementation and experiments; used latent-space guidance to constrain one-step diffusion reconstruction for real-world panoramic super-resolution.</li></ul>
     </article>
     <article class="resume-paper">
       <h3><a href="https://link.springer.com/article/10.1007/s11263-025-02629-7">OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation</a></h3>
-      <p class="resume-paper-meta">Weiqi Li, Shijie Zhao, Chong Mou, <strong>Xuhan Sheng</strong>, et al. <strong>IJCV 2025.</strong></p>
+      <p class="resume-paper-meta">Weiqi Li, Shijie Zhao, Chong Mou, <strong>Xuhan Sheng</strong>, et al. <strong>IJCV 2026.</strong></p>
       <ul class="resume-bullets"><li>Contributed to the Move360 large-motion dataset for controllable panoramic image-to-video generation.</li></ul>
     </article>
     <article class="resume-paper">
       <h3><a href="https://arxiv.org/abs/2404.14177">Label-guided Facial Retouching Reversion</a></h3>
       <p class="resume-paper-meta">Guanhua Zhao*, Yu Gu*, <strong>Xuhan Sheng</strong>, Yujie Hu, Jian Zhang. <strong>ICME 2025, Oral.</strong></p>
       <ul class="resume-bullets"><li>Developed hierarchical adaptive instance normalization to mitigate color drift in facial retouching reversion.</li></ul>
-    </article>
-    <article class="resume-paper">
-      <h3>Bridging the Point to Boundary Gap for Point-supervised Temporal Action Localization with Single-stage Inference</h3>
-      <p class="resume-paper-meta">Junshi Yang, Shenglan Liu, <strong>Xuhan Sheng</strong>, et al. <strong>PRCV 2025.</strong></p>
-      <ul class="resume-bullets">
-        <li>A hierarchical framework converting sparse point annotations into boundary-accurate pseudo labels via Gaussian-prior boundary enhancement.</li>
-        <li>Assisted in manuscript writing and submission.</li>
-      </ul>
-    </article>
-    <article class="resume-paper">
-      <h3><a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.html">OPDN: Omnidirectional Position-Aware Deformable Network for Omnidirectional Image Super-Resolution</a></h3>
-      <p class="resume-paper-meta">Xiaopeng Sun*, Weiqi Li*, Zhenyu Zhang, Qiufang Ma, <strong>Xuhan Sheng</strong>, et al. <strong>CVPRW 2023.</strong></p>
-      <ul class="resume-bullets">
-        <li>Contributed a spatial-frequency fusion module and fisheye data collection to the <strong>NTIRE 2023 omnidirectional SR challenge winning team</strong>.</li>
-      </ul>
     </article>
   </section>
 
@@ -277,8 +263,6 @@ author_profile: false
       <li><strong>NTIRE 2023 omnidirectional SR challenge</strong> — winning team.</li>
       <li><strong>Peking University Academic Excellence Award</strong> — 2024.</li>
       <li><strong>Dalian University of Technology University-level Outstanding Graduate</strong> — 2023.</li>
-      <li>Dalian University of Technology First-class Academic Excellence Scholarship — 2022 and 2020.</li>
-      <li>Dalian University of Technology Second-class Academic Excellence Scholarship — 2021.</li>
     </ul>
   </section>
 </div>
