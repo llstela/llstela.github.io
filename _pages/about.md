@@ -156,6 +156,7 @@ I am always open to academic and industry collaborations. Feel free to reach out
 # 🏅 Honors and Awards
 
 - *2026* · [Science Tokyo SPRING (Doctoral Support Program)](https://www.spring-boost.i.isct.ac.jp/topics/141984/) · Institute of Science Tokyo
+- *2026* · JASSO Scholarship · Japan Student Services Organization
 - *2024* · Academic Excellence Award · Peking University
 - *2023* · University-level Outstanding Graduate · Dalian University of Technology
 - *2022* · First-class Academic Excellence Scholarship · Dalian University of Technology
