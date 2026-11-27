@@ -155,11 +155,12 @@ I am always open to academic and industry collaborations. Feel free to reach out
 <span class='anchor' id='awards'></span>
 # 🏅 Honors and Awards
 
-- *2024*, Peking University Academic Excellence Award.
-- *2023*, Dalian University of Technology University-level Outstanding Graduate.
-- *2022*, Dalian University of Technology First-class Academic Excellence Scholarship.
-- *2021*, Dalian University of Technology Second-class Academic Excellence Scholarship.
-- *2020*, Dalian University of Technology First-class Academic Excellence Scholarship.
+- *2026* · [Science Tokyo SPRING (Doctoral Support Program)](https://www.spring-boost.i.isct.ac.jp/topics/141984/) · Institute of Science Tokyo
+- *2024* · Academic Excellence Award · Peking University
+- *2023* · University-level Outstanding Graduate · Dalian University of Technology
+- *2022* · First-class Academic Excellence Scholarship · Dalian University of Technology
+- *2021* · Second-class Academic Excellence Scholarship · Dalian University of Technology
+- *2020* · First-class Academic Excellence Scholarship · Dalian University of Technology
 
 <span class='anchor' id='hobbies'></span>
 # 😊 Hobbies
